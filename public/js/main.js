@@ -447,6 +447,7 @@ async function createCharm(name, skills, slots) {
 
   setCharmJson(charms);
   await showPieceSelectionItems("charmPieceSelector", "Charm", true);
+  alert(`${name} charm is created as successfully!`)
 }
 
 async function onNewWeaponSelected() {
@@ -492,16 +493,21 @@ $(document).ready(function () {
   });
   $("#charmTable tbody").on("click", "button", async function () {
     let data = charmTable.row($(this).parents("tr")[0]).data();
+    let isMobile = false
+    if (data == undefined){
+      // If in mobile view
+      data = charmTable.row($(this).parents("tr")[1]).data();
+      isMobile = true
+    }
     let decision = confirm("Are you sure you want to delete this charm?");
     if (decision) {
-      try {
-        console.log(data)
-        removeCharm(data[0]);
-      } catch (error) {
-        removeCharm(data);
-      }   
+      removeCharm(data[0]);
       await showPieceSelectionItems("charmPieceSelector", "Charm", true);
-      charmTable.row($(this).parents("tr")[0]).remove().draw();
+      if(isMobile){
+        charmTable.row($(this).parents("tr")[1]).remove().draw();
+      }else{
+        charmTable.row($(this).parents("tr")[0]).remove().draw();
+      }
     }
   });
   main();
