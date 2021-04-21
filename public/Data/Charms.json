@@ -1,0 +1,21 @@
+{
+    "WEX 2-1":{
+        "Decoration_Slots": {
+            "Slot_1": 2,
+            "Slot_2": 1
+        },
+        "Skills":{
+            "Critical Eye" : 1
+        }
+    },
+    "Reload SP 3-2":{
+        "Decoration_Slots": {
+            "Slot_1": 3,
+            "Slot_2": 2
+        },
+        "Skills":{
+            "Reload Speed" : 3,
+            "Defense Boost" : 2
+        }
+    }
+}

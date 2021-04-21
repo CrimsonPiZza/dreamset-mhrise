@@ -1,0 +1,858 @@
+{
+    "Attack Boost": {
+        "Max_Level": 7,
+        "Skill_Descriptions": {
+            "1": "Attack +3",
+            "2": "Attack +6",
+            "3": "Attack +9",
+            "4": "Attack +5% Bonus: +7",
+            "5": "Attack +6% Bonus: +8",
+            "6": "Attack +8% Bonus: +9",
+            "7": "Attack +10% Bonus: +10"
+        }
+    },
+    "Agitator": {
+        "Max_Level": 5,
+        "Skill_Descriptions": {
+            "1": "Attack +4 and affinity +3% while active.",
+            "2": "Attack +8 and affinity +5% while active.",
+            "3": "Attack +12 and affinity +7% while active.",
+            "4": "Attack +16 and affinity +10% while active.",
+            "5": "Attack +20 and affinity +15% while active."
+        }
+    },
+    "Peak Performance": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Attack +5 while active.",
+            "2": "Attack +10 while active.",
+            "3": "Attack +20 while active."
+        }
+    },
+    "Resentment": {
+        "Max_Level": 5,
+        "Skill_Descriptions": {
+            "1": "Attack +5 while active.",
+            "2": "Attack +10 while active.",
+            "3": "Attack +15 while active.",
+            "4": "Attack +20 while active.",
+            "5": "Attack +25 while active."
+        }
+    },
+    "Resuscitate": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Attack +5 while active.",
+            "2": "Attack +10 while active.",
+            "3": "Attack +20 while active."
+        }
+    },
+    "Critical Eye": {
+        "Max_Level": 7,
+        "Skill_Descriptions": {
+            "1": "Affinity +5%",
+            "2": "Affinity +10%",
+            "3": "Affinity +15%",
+            "4": "Affinity +20%",
+            "5": "Affinity +25%",
+            "6": "Affinity +30%",
+            "7": "Affinity +40%"
+        }
+    },
+    "Critical Boost": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Increases damage dealt by critical hits to 30%.",
+            "2": "Increases damage dealt by critical hits to 35%.",
+            "3": "Increases damage dealt by critical hits to 40%."
+        }
+    },
+    "Weakness Exploit": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Attacks that hit weak spots have 15% increased affinity.",
+            "2": "Attacks that hit weak spots have 30% increased affinity.",
+            "3": "Attacks that hit weak spots have 50% increased affinity."
+        }
+    },
+    "Latent Power": {
+        "Max_Level": 5,
+        "Skill_Descriptions": {
+            "1": "While active, increases affinity by 10% and reduces stamina depletion by 30%.",
+            "2": "While active, increases affinity by 20% and reduces stamina depletion by 30%.",
+            "3": "While active, increases affinity by 30% and reduces stamina depletion by 50%.",
+            "4": "While active, increases affinity by 40% and reduces stamina depletion by 50%.",
+            "5": "While active, increases affinity by 50% and reduces stamina depletion by 50%."
+        }
+    },
+    "Maximum Might": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "While active, increases affinity by 10%.",
+            "2": "While active, increases affinity by 20%.",
+            "3": "While active, increases affinity by 30%."
+        }
+    },
+    "Critical Element": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Grants elemental damage +5% while active.",
+            "2": "Grants elemental damage +10% while active.",
+            "3": "Grants elemental damage +15% while active."
+        }
+    },
+    "Fire Attack": {
+        "Max_Level": 5,
+        "Skill_Descriptions": {
+            "1": "Fire attack +2",
+            "2": "Fire attack +3",
+            "3": "Fire attack +5% Bonus: +4",
+            "4": "Fire attack +10% Bonus: +4",
+            "5": "Fire attack +20% Bonus: +4"
+        }
+    },
+    "Water Attack": {
+        "Max_Level": 5,
+        "Skill_Descriptions": {
+            "1": "Water attack +2",
+            "2": "Water attack +3",
+            "3": "Water attack +5% Bonus: +4",
+            "4": "Water attack +10% Bonus: +4",
+            "5": "Water attack +20% Bonus: +4"
+        }
+    },
+    "Ice Attack": {
+        "Max_Level": 5,
+        "Skill_Descriptions": {
+            "1": "Ice attack +2",
+            "2": "Ice attack +3",
+            "3": "Ice attack +5% Bonus: +4",
+            "4": "Ice attack +10% Bonus: +4",
+            "5": "Ice attack +20% Bonus: +4"
+        }
+    },
+    "Thunder Attack": {
+        "Max_Level": 5,
+        "Skill_Descriptions": {
+            "1": "Thunder attack +2",
+            "2": "Thunder attack +3",
+            "3": "Thunder attack +5% Bonus: +4",
+            "4": "Thunder attack +10% Bonus: +4",
+            "5": "Thunder attack +20% Bonus: +4"
+        }
+    },
+    "Dragon Attack": {
+        "Max_Level": 5,
+        "Skill_Descriptions": {
+            "1": "Dragon attack +2",
+            "2": "Dragon attack +3",
+            "3": "Dragon attack +5% Bonus: +4",
+            "4": "Dragon attack +10% Bonus: +4",
+            "5": "Dragon attack +20% Bonus: +4"
+        }
+    },
+    "Poison Attack": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Poison buildup +5% Bonus: +1",
+            "2": "Poison buildup +10% Bonus: +2",
+            "3": "Poison buildup +20% Bonus: +5"
+        }
+    },
+    "Paralysis Attack": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Paralysis buildup +5% Bonus: +1",
+            "2": "Paralysis buildup +10% Bonus: +2",
+            "3": "Paralysis buildup +20% Bonus: +5"
+        }
+    },
+    "Sleep Attack": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Sleep buildup +5% Bonus: +1",
+            "2": "Sleep buildup +10% Bonus: +2",
+            "3": "Sleep buildup +20% Bonus: +5"
+        }
+    },
+    "Blast Attack": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Blast buildup +5% Bonus: +1",
+            "2": "Blast buildup +10% Bonus: +2",
+            "3": "Blast buildup +20% Bonus: +5"
+        }
+    },
+    "Handicraft": {
+        "Max_Level": 5,
+        "Skill_Descriptions": {
+            "1": "Weapon sharpness +10",
+            "2": "Weapon sharpness +20",
+            "3": "Weapon sharpness +30",
+            "4": "Weapon sharpness +40",
+            "5": "Weapon sharpness +50"
+        }
+    },
+    "Razor Sharp": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Activates 10% of the time.",
+            "2": "Activates 25% of the time.",
+            "3": "Activates 50% of the time."
+        }
+    },
+    "Spare Shot": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Activates 3% of the time.",
+            "2": "Activates 10% of the time.",
+            "3": "Activates 20% of the time."
+        }
+    },
+    "Protective Polish": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Effect lasts 30 seconds.",
+            "2": "Effect lasts 60 seconds.",
+            "3": "Effect lasts 90 seconds."
+        }
+    },
+    "Mind's Eye": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "+10% damage to hard targets and a 50% reduction to your attacks being deflected.",
+            "2": "+15% damage to hard targets and a 100% reduction to your attacks being deflected.",
+            "3": "+30% damage to hard targets and a 100% reduction to your attacks being deflected."
+        }
+    },
+    "Aim Booster": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Slightly extends range.",
+            "2": "Extends range.",
+            "3": "Greatly extends range."
+        }
+    },
+    "Bludgeoner": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "+5% attack power when your weapon sharpness gauge is yellow or lower.",
+            "2": "+10% attack power when your sharpness gauge is yellow or lower.",
+            "3": "+10% attack power when your sharpness gauge is green or lower."
+        }
+    },
+    "Bow Charge Plus": {
+        "Max_Level": 1,
+        "Skill_Descriptions": {
+            "1": "Activates skill effect."
+        }
+    },
+    "Focus": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "5% faster gauge fill rate and 5% faster charge times.",
+            "2": "10% faster gauge fill rate and 10% faster charge times.",
+            "3": "20% faster gauge fill rate and 15% faster charge times."
+        }
+    },
+    "Power Prolonger": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Slightly boosts the duration weapons are powered up.",
+            "2": "Boosts the duration weapons are powered up.",
+            "3": "Greatly boosts the duration weapons are powered up."
+        }
+    },
+    "Marathon Runner": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Reduces continuous stamina depletion by 15%.",
+            "2": "Reduces continuous stamina depletion by 30%.",
+            "3": "Reduces continuous stamina depletion by 50%."
+        }
+    },
+    "Constitution": {
+        "Max_Level": 5,
+        "Skill_Descriptions": {
+            "1": "Reduces fixed stamina depletion by 10%.",
+            "2": "Reduces fixed stamina depletion by 20%.",
+            "3": "Reduces fixed stamina depletion by 30%.",
+            "4": "Reduces fixed stamina depletion by 40%.",
+            "5": "Reduces fixed stamina depletion by 50%."
+        }
+    },
+    "Stamina Surge": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Stamina recovery speed +10%",
+            "2": "Stamina recovery speed +20%",
+            "3": "Stamina recovery speed +40%"
+        }
+    },
+    "Guard": {
+        "Max_Level": 5,
+        "Skill_Descriptions": {
+            "1": "Very slightly decreases the impact of attacks.",
+            "2": "Slightly decreases the impact of attacks and reduces stamina depletion by 15%.",
+            "3": "Decreases the impact of attacks and reduces stamina depletion by 15%.",
+            "4": "Decreases the impact of attacks and reduces stamina depletion by 30%.",
+            "5": "Greatly decreases the impact of attacks and reduces stamina depletion by 30%."
+        }
+    },
+    "Guard Up": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Reduces damage taken by 30%.",
+            "2": "Reduces damage taken by 50%.",
+            "3": "Reduces damage taken by 80%."
+        }
+    },
+    "Offensive Guard": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Attack +5% while active.",
+            "2": "Attack +10% while active.",
+            "3": "Attack +15% while active."
+        }
+    },
+    "Critical Draw": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Affinity +10%",
+            "2": "Affinity +20%",
+            "3": "Affinity +40%"
+        }
+    },
+    "Punishing Draw": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Applies a minor chance to stun. Attack power of draw attacks +3",
+            "2": "Applies a chance to stun. Attack power of draw attacks +5",
+            "3": "Applies a great chance to stun. Attack power of draw attacks +7"
+        }
+    },
+    "Quick Sheath": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Slightly increases sheathing speed.",
+            "2": "Moderately increases sheathing speed.",
+            "3": "Greatly increases sheathing speed."
+        }
+    },
+    "Slugger": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Stun power +20%",
+            "2": "Stun power +30%",
+            "3": "Stun power +40%"
+        }
+    },
+    "Stamina Thief": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Exhaust power +20%",
+            "2": "Exhaust power +30%",
+            "3": "Exhaust power +40%"
+        }
+    },
+    "Affinity Sliding": {
+        "Max_Level": 1,
+        "Skill_Descriptions": {
+            "1": "Enables skill use."
+        }
+    },
+    "Horn Maestro": {
+        "Max_Level": 1,
+        "Skill_Descriptions": {
+            "1": "Activates skill effect."
+        }
+    },
+    "Artillery": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Increases power of each attack by 10% and reduces Wyvern's Fire cooldown by 15%.",
+            "2": "Increases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%.",
+            "3": "Increases power of each attack by 30% and reduces Wyvern's Fire cooldown by 50%."
+        }
+    },
+    "Load Shells": {
+        "Max_Level": 2,
+        "Skill_Descriptions": {
+            "1": "Increases ammo and coating reloading speed.",
+            "2": "Gunlance loading capacity +1 Increases charge blade phials"
+        }
+    },
+    "Special Ammo Boost": {
+        "Max_Level": 2,
+        "Skill_Descriptions": {
+            "1": "Increases power of bowgun special ammo and Dragon Piercer by 10%.",
+            "2": "Increases power of bowgun special ammo and Dragon Piercer by 20%."
+        }
+    },
+    "Normal/Rapid Up": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Slightly increases the power of Normal Ammo and Rapid-type arrows.",
+            "2": "Increases the power of Normal Ammo and Rapid-type arrows.",
+            "3": "Greatly increases the power of Normal Ammo and Rapid-type arrows."
+        }
+    },
+    "Pierce Up": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Slightly increases the power of Piercing Ammo and Piercing-type arrows.",
+            "2": "Increases the power of Piercing Ammo and Piercing-type arrows.",
+            "3": "Greatly increases the power of Piercing Ammo and Piercing-type arrows."
+        }
+    },
+    "Spread Up": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Slightly increases the power of Spread Ammo, Shrapnel Ammo, and Spread-type arrows.",
+            "2": "Increases the power of Spread Ammo, Shrapnel Ammo, and Spread-type arrows.",
+            "3": "Greatly increases the power of Spread Ammo, Shrapnel Ammo, and Spread-type arrows."
+        }
+    },
+    "Ammo Up": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Expands clip size for some ammo types.",
+            "2": "Expands clip size for many ammo types.",
+            "3": "Expands clip size for most ammo types."
+        }
+    },
+    "Reload Speed": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Bowgun speed +1. Improves bow handling.",
+            "2": "Bowgun speed +2. Loads bow coating automatically.",
+            "3": "Bowgun speed +3."
+        }
+    },
+    "Recoil Down": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Recoil -1",
+            "2": "Recoil -2",
+            "3": "Recoil -3"
+        }
+    },
+    "Steadiness": {
+        "Max_Level": 2,
+        "Skill_Descriptions": {
+            "1": "Deviation -1",
+            "2": "Deviation -2"
+        }
+    },
+    "Rapid Fire Up": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Rapid fire damage +5%",
+            "2": "Rapid fire damage +10%",
+            "3": "Rapid fire damage +20%"
+        }
+    },
+    "Defense Boost": {
+        "Max_Level": 7,
+        "Skill_Descriptions": {
+            "1": "Defense +5",
+            "2": "Defense +10",
+            "3": "Defense +5% Bonus: +10",
+            "4": "Defense +5% Bonus: +20 All elemental resistances +3",
+            "5": "Defense +8% Bonus: +20 All elemental resistances +3",
+            "6": "Defense +8% Bonus: +35 All elemental resistances +5",
+            "7": "Defense +10% Bonus: +35 All elemental resistances +5"
+        }
+    },
+    "Divine Blessing": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "While active, reduces damage taken by 15%.",
+            "2": "While active, reduces damage taken by 30%.",
+            "3": "While active, reduces damage taken by 50%."
+        }
+    },
+    "Recovery Up": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Slightly increases recovery.",
+            "2": "Increases recovery.",
+            "3": "Greatly increases recovery."
+        }
+    },
+    "Recovery Speed": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Doubles the speed at which you heal recoverable damage.",
+            "2": "Triples the speed at which you heal recoverable damage.",
+            "3": "Quadruples the speed at which you heal recoverable damage."
+        }
+    },
+    "Speed Eating": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Slightly increases eating speed.",
+            "2": "Increases eating speed.",
+            "3": "Greatly increases eating speed."
+        }
+    },
+    "Earplugs": {
+        "Max_Level": 5,
+        "Skill_Descriptions": {
+            "1": "Reduces the effects of weak monster roars.",
+            "2": "Nullifies weak monster roars.",
+            "3": "Nullifies weak monster roars and reduces the effects of strong monster roars.",
+            "4": "Nullifies weak and strong monster roars.",
+            "5": "Nullifies weak and strong monster roars. Reduces the effects of powerful monster roars."
+        }
+    },
+    "Windproof": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Negates minor wind pressure.",
+            "2": "Negates minor and major wind pressure.",
+            "3": "Negates minor and major wind pressure and reduces the effects of dragon wind pressure."
+        }
+    },
+    "Tremor Resistance": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Nullifies minor ground tremors.",
+            "2": "Nullifies minor ground tremors and reduces the effects of major ground tremors.",
+            "3": "Nullifies minor and major ground tremors."
+        }
+    },
+    "Bubbly Dance": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Reduces the effects of weak bubbleblight.",
+            "2": "Nullifies major and minor bubbleblight and increases evasiveness while afflicted with bubbleblight.",
+            "3": "Evading further attacks will inflicts bubbleblight."
+        }
+    },
+    "Evade Window": {
+        "Max_Level": 5,
+        "Skill_Descriptions": {
+            "1": "Very slightly increases invulnerability window.",
+            "2": "Slightly increases invulnerability window.",
+            "3": "Increases invulnerability window.",
+            "4": "Greatly increases invulnerability window.",
+            "5": "Massively increases invulnerability window."
+        }
+    },
+    "Evade Extender": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Slightly extends evasion distance.",
+            "2": "Extends evasion distance.",
+            "3": "Greatly extends evasion distance."
+        }
+    },
+    "Fire Resistance": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Fire resistance +6",
+            "2": "Fire resistance +12",
+            "3": "Fire resistance +20 Defense +10"
+        }
+    },
+    "Water Resistance": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Water resistance +6",
+            "2": "Water resistance +12",
+            "3": "Water resistance +20 Defense +10"
+        }
+    },
+    "Ice Resistance": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Ice resistance +6",
+            "2": "Ice resistance +12",
+            "3": "Ice resistance +20 Defense +10"
+        }
+    },
+    "Thunder Resistance": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Thunder resistance +6",
+            "2": "Thunder resistance +12",
+            "3": "Thunder resistance +20 Defense +10"
+        }
+    },
+    "Dragon Resistance": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Dragon resistance +6",
+            "2": "Dragon resistance +12",
+            "3": "Dragon resistance +20 Defense +10"
+        }
+    },
+    "Blight Resistance": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Reduces the duration of all elemental blights by 50%.",
+            "2": "Reduces the duration of all elemental blights by 75%.",
+            "3": "Nullifies all elemental blights."
+        }
+    },
+    "Poison Resistance": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Reduces the number of times you take poison damage.",
+            "2": "Greatly reduces the number of times you take poison damage.",
+            "3": "Prevents poison and reduces venom."
+        }
+    },
+    "Paralysis Resistance": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Reduces the duration of paralysis by 30%.",
+            "2": "Reduces the duration of paralysis by 60%.",
+            "3": "Prevents paralysis."
+        }
+    },
+    "Sleep Resistance": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Reduces the duration of sleep by 30%.",
+            "2": "Reduces the duration of sleep by 60%.",
+            "3": "Prevents sleep."
+        }
+    },
+    "Stun Resistance": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Reduces the duration of stun by 60%.",
+            "2": "Reduces the duration of stun by 90%.",
+            "3": "Prevents stun."
+        }
+    },
+    "Muck Resistance": {
+        "Max_Level": 2,
+        "Skill_Descriptions": {
+            "1": "Reduces limits on movement speed.",
+            "2": "Negates limits to movement speed."
+        }
+    },
+    "Blast Resistance": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Delays blastblight and reduces blast damage.",
+            "2": "Greatly delays blastblight and greatly reduces blast damage.",
+            "3": "Prevents blastblight."
+        }
+    },
+    "Botanist": {
+        "Max_Level": 4,
+        "Skill_Descriptions": {
+            "1": "One extra consumable herb item per gather.",
+            "2": "One extra consumable herb, fruit, nut, or seed item per gather.",
+            "3": "One extra consumable herb, fruit, nut, seed, or insect item per gather.",
+            "4": "One extra consumable herb, fruit, nut, seed, insect, or mushroom item per gather."
+        }
+    },
+    "Geologist": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Allows you to gather one extra time from bonepiles.",
+            "2": "Allows you to gather one extra time from gathering points.",
+            "3": "Allows you to gather one extra time from mining outcrops."
+        }
+    },
+    "Partbreaker": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Part damage +10%",
+            "2": "Part damage +20%",
+            "3": "Part damage +30%"
+        }
+    },
+    "Capture Master": {
+        "Max_Level": 1,
+        "Skill_Descriptions": {
+            "1": "Activates skill effect."
+        }
+    },
+    "Good Luck": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Slightly increases luck.",
+            "2": "Increases luck.",
+            "3": "Greatly increases luck."
+        }
+    },
+    "Speed Sharpening": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Removes one cycle from the sharpening process.",
+            "2": "Removes two cycles from the sharpening process.",
+            "3": "Removes three cycles from the sharpening process."
+        }
+    },
+    "Bombardier": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Explosive power +10%",
+            "2": "Explosive power +20%",
+            "3": "Explosive power +30%"
+        }
+    },
+    "Mushroomancer": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Lets you digest blue mushrooms and toadstools.",
+            "2": "Additionally lets you digest nitroshrooms and parashrooms.",
+            "3": "Additionally lets you digest mandragoras and exciteshrooms."
+        }
+    },
+    "Item Prolonger": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Item effect duration +10%",
+            "2": "Item effect duration +25%",
+            "3": "Item effect duration +50%"
+        }
+    },
+    "Wide-Range": {
+        "Max_Level": 5,
+        "Skill_Descriptions": {
+            "1": "Items affect nearby allies with 33% of their efficacy.",
+            "2": "Items affect nearby allies in a wider radius with 33% of their efficacy.",
+            "3": "Items affect nearby allies in a wider radius with 66% of their efficacy.",
+            "4": "Items affect nearby allies in a much wider radius with 66% of their efficacy.",
+            "5": "Items affect nearby allies in a much wider radius with full efficacy."
+        }
+    },
+    "Free Meal": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Activates 10% of the time.",
+            "2": "Activates 25% of the time.",
+            "3": "Activates 45% of the time."
+        }
+    },
+    "Heroics": {
+        "Max_Level": 5,
+        "Skill_Descriptions": {
+            "1": "While active, increases defense by 50 points.",
+            "2": "Attack +5% and defense +50 while active.",
+            "3": "Attack +5% and defense +100 while active.",
+            "4": "Attack +10% and defense +100 while active.",
+            "5": "While active, attack power +30% and defense-increasing effects are negated."
+        }
+    },
+    "Fortify": {
+        "Max_Level": 1,
+        "Skill_Descriptions": {
+            "1": "Increases attack by 10% and defense by 15% with each use."
+        }
+    },
+    "Flinch Free": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Prevents knockbacks.",
+            "2": "Prevents knockbacks. Tripping is reduced to a knockback instead.",
+            "3": "Prevents knockbacks and tripping."
+        }
+    },
+    "Jump Master": {
+        "Max_Level": 1,
+        "Skill_Descriptions": {
+            "1": "Negates knockback during jumps."
+        }
+    },
+    "Carving Pro": {
+        "Max_Level": 1,
+        "Skill_Descriptions": {
+            "1": "Activates skill effect."
+        }
+    },
+    "Hunger Resistance": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Extends the time until your stamina cap reduces by 50%.",
+            "2": "Extends the time until your stamina cap reduces by 100%.",
+            "3": "Prevents your stamina cap from decreasing."
+        }
+    },
+    "Leap of Faith": {
+        "Max_Level": 1,
+        "Skill_Descriptions": {
+            "1": "Enables skill use."
+        }
+    },
+    "Diversion": {
+        "Max_Level": 1,
+        "Skill_Descriptions": {
+            "1": "Activates skill effect."
+        }
+    },
+    "Master Mounter": {
+        "Max_Level": 1,
+        "Skill_Descriptions": {
+            "1": "Makes filling the Riding Gauge easier and increases ease of parrying."
+        }
+    },
+    "Wirebug Whisperer": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Extends the duration you can keep a Wirebug by 30%.",
+            "2": "Further increases passive Wirebug recovery rate.",
+            "3": "Further increases passive recovery rate while on the ground."
+        }
+    },
+    "Wall Runner": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Reduces stamina consumption by 25% while wall running.",
+            "2": "Reduces stamina consumption by 50% while wall running.",
+            "3": "Wall running temporarily increases attack power."
+        }
+    },
+    "Counterstrike": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Attack +10 after activation.",
+            "2": "Attack +15 after activation.",
+            "3": "Attack +25 after activation."
+        }
+    },
+    "Rapid Morph": {
+        "Max_Level": 3,
+        "Skill_Descriptions": {
+            "1": "Speed +10%",
+            "2": "Speed +20% Morph attack damage +10%",
+            "3": "Speed +30% Morph attack damage +20%"
+        }
+    },
+    "Hellfire Cloak": {
+        "Max_Level": 4,
+        "Skill_Descriptions": {
+            "1": "Reduces damage from hellfire.",
+            "2": "Increases damage from hellfire blasts.",
+            "3": "Inflicts hellfireblight when monsters are enraged.",
+            "4": "Effect persists for one minute after a monster's rage has subsided."
+        }
+    },
+    "Wind Alignment": {
+        "Max_Level": 5,
+        "Skill_Descriptions": {
+            "1": "Dragon resistance +1",
+            "2": "Dragon resistance +2",
+            "3": "Dragon resistance +3",
+            "4": "Dragon resistance +4",
+            "5": "Also grants the effect Fortunate."
+        }
+    },
+    "Thunder Alignment": {
+        "Max_Level": 5,
+        "Skill_Descriptions": {
+            "1": "Thunder resistance +1",
+            "2": "Thunder resistance +2",
+            "3": "Thunder resistance +3",
+            "4": "Thunder resistance +4",
+            "5": "Also grants the effect Fortunate."
+        }
+    }
+}

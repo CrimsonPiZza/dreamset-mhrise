@@ -1,0 +1,1263 @@
+{
+    "Kamura Leggings": {
+        "Decoration_Slots": {},
+        "Defense": 1,
+        "Skills": {
+            "Wall Runner": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 1
+    },
+    "Leather Pants": {
+        "Decoration_Slots": {},
+        "Defense": 1,
+        "Skills": {
+            "Geologist": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 1
+    },
+    "Chainmail Pants": {
+        "Decoration_Slots": {},
+        "Defense": 4,
+        "Skills": {
+            "Stamina Surge": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 1
+    },
+    "Hunter's Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 4,
+        "Skills": {
+            "Stun Resistance": 1,
+            "Attack Boost": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 1
+    },
+    "Izuchi Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 10,
+        "Skills": {
+            "Recovery Speed": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 1
+    },
+    "Baggi Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 10,
+        "Skills": {
+            "Attack Boost": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 1
+    },
+    "Arzuros Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 10,
+        "Skills": {
+            "Diversion": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 1
+    },
+    "Lagombi Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 10,
+        "Skills": {
+            "Critical Eye": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 1
+    },
+    "Alloy Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 10,
+        "Skills": {
+            "Speed Sharpening": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Ingot Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Attack Boost": 1,
+            "Critical Eye": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Melahoa Roots": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Recovery Speed": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Death Stench Heel": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Rapid Morph": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Mosgharl Roots": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Recoil Down": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Vaik Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Ammo Up": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Edel Roots": {
+        "Decoration_Slots": {},
+        "Defense": 12,
+        "Skills": {
+            "Thunder Resistance": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Spio Crura": {
+        "Decoration_Slots": {},
+        "Defense": 12,
+        "Skills": {
+            "Poison Resistance": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Shelled Sandals": {
+        "Decoration_Slots": {},
+        "Defense": 12,
+        "Skills": {
+            "Spread Up": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Bishaten Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 22,
+        "Skills": {
+            "Maximum Might": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Aknosom Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 16,
+        "Skills": {
+            "Fire Attack": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Tetranadon Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Hunger Resistance": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Somnacanth Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 22,
+        "Skills": {
+            "Divine Blessing": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Rhenoplos Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 14,
+        "Skills": {
+            "Tremor Resistance": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Jaggi Shinguards": {
+        "Decoration_Slots": {},
+        "Defense": 14,
+        "Skills": {
+            "Master Mounter": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Bnahabra Hat": {
+        "Decoration_Slots": {},
+        "Defense": 14,
+        "Skills": {
+            "Recoil Down": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Bnahabra Boots": {
+        "Decoration_Slots": {},
+        "Defense": 14,
+        "Skills": {
+            "Recoil Down": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Remobra Feet": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Divine Blessing": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Wroggi Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 16,
+        "Skills": {
+            "Evade Extender": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Volvidon Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 20,
+        "Skills": {
+            "Evade Extender": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Ludroth Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Power Prolonger": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Barroth Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Guard": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Khezu Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 16,
+        "Skills": {
+            "Recovery Speed": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Barioth Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 20,
+        "Skills": {
+            "Quick Sheath": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Rathian Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 22,
+        "Skills": {
+            "Free Meal": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Basarios Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 22,
+        "Skills": {
+            "Load Shells": 1,
+            "Defense Boost": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Kulu-Ya-Ku Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 16,
+        "Skills": {
+            "Stun Resistance": 1,
+            "Critical Eye": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Pukei Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 20,
+        "Skills": {
+            "Constitution": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Kadachi Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 20,
+        "Skills": {
+            "Constitution": 1,
+            "Critical Eye": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Bone Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 10,
+        "Skills": {
+            "Muck Resistance": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 2
+    },
+    "Makluva Pants": {
+        "Decoration_Slots": {},
+        "Defense": 24,
+        "Skills": {
+            "Speed Eating": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 3
+    },
+    "Aelucanth Crura": {
+        "Decoration_Slots": {},
+        "Defense": 24,
+        "Skills": {
+            "Critical Eye": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 3
+    },
+    "Rhopessa Crura": {
+        "Decoration_Slots": {},
+        "Defense": 24,
+        "Skills": {
+            "Critical Eye": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 3
+    },
+    "Utsushi Greaves (V)": {
+        "Decoration_Slots": {},
+        "Defense": 24,
+        "Skills": {
+            "Wide-Range": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 3
+    },
+    "Utsushi Greaves (H)": {
+        "Decoration_Slots": {},
+        "Defense": 24,
+        "Skills": {
+            "Evade Window": 1,
+            "Agitator": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 3
+    },
+    "Jelly Boots": {
+        "Decoration_Slots": {},
+        "Defense": 24,
+        "Skills": {
+            "Blast Attack": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 3
+    },
+    "Goss Harag Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 30,
+        "Skills": {
+            "Agitator": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 3
+    },
+    "Almudron Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 30,
+        "Skills": {
+            "Razor Sharp": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 3
+    },
+    "Nargacuga Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 26,
+        "Skills": {
+            "Evade Window": 1,
+            "Critical Eye": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 3
+    },
+    "Rathalos Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 28,
+        "Skills": {
+            "Attack Boost": 1,
+            "Fire Attack": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 3
+    },
+    "Tigrex Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 30,
+        "Skills": {
+            "Speed Eating": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 3
+    },
+    "Diablos Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 30,
+        "Skills": {
+            "Guard": 1,
+            "Offensive Guard": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 3
+    },
+    "Zinogre Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 28,
+        "Skills": {
+            "Constitution": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 3
+    },
+    "Anjanath Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 26,
+        "Skills": {
+            "Marathon Runner": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 3
+    },
+    "Sinister Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 28,
+        "Skills": {
+            "Resentment": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 3
+    },
+    "Mizutsune Greaves": {
+        "Decoration_Slots": {},
+        "Defense": 26,
+        "Skills": {
+            "Bubbly Dance": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 3
+    },
+    "Brigade Boots": {
+        "Decoration_Slots": {},
+        "Defense": 26,
+        "Skills": {
+            "Wide-Range": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 3
+    },
+    "Kamura Leggings S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 30,
+        "Skills": {
+            "Wall Runner": 2,
+            "Resuscitate": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Leather Pants S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 30,
+        "Skills": {
+            "Geologist": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Chainmail Pants S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 32,
+        "Skills": {
+            "Botanist": 1,
+            "Stamina Surge": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Hunter's Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 32,
+        "Skills": {
+            "Stun Resistance": 1,
+            "Attack Boost": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Alloy Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 32,
+        "Skills": {
+            "Speed Sharpening": 1,
+            "Critical Eye": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Ingot Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 40,
+        "Skills": {
+            "Attack Boost": 2,
+            "Critical Eye": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Edel Roots S": {
+        "Decoration_Slots": {
+            "Slot_1": 3,
+            "Slot_2": 1
+        },
+        "Defense": 40,
+        "Skills": {
+            "Poison Resistance": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Skalda Crura S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 32,
+        "Skills": {
+            "Latent Power": 1,
+            "Poison Resistance": 1,
+            "Mind's Eye": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Spio Crura S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 32,
+        "Skills": {
+            "Latent Power": 1,
+            "Poison Resistance": 1,
+            "Mind's Eye": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Aknosom Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 38,
+        "Skills": {
+            "Peak Performance": 1,
+            "Fire Attack": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Tetranadon Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 40,
+        "Skills": {
+            "Normal/Rapid Up": 1,
+            "Hunger Resistance": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Izuchi Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 36,
+        "Skills": {
+            "Recovery Speed": 1,
+            "Constitution": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Rhenoplos Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 42,
+        "Skills": {
+            "Pierce Up": 1,
+            "Tremor Resistance": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Jaggi Shinguards S": {
+        "Decoration_Slots": {
+            "Slot_1": 2,
+            "Slot_2": 1
+        },
+        "Defense": 42,
+        "Skills": {
+            "Master Mounter": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Bnahabra Boots S": {
+        "Decoration_Slots": {
+            "Slot_1": 2,
+            "Slot_2": 1
+        },
+        "Defense": 34,
+        "Skills": {
+            "Paralysis Attack": 1,
+            "Recoil Down": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Wroggi Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 38,
+        "Skills": {
+            "Ammo Up": 1,
+            "Evade Extender": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Baggi Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 2,
+            "Slot_2": 1
+        },
+        "Defense": 36,
+        "Skills": {
+            "Attack Boost": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Arzuros Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 3,
+            "Slot_2": 1,
+            "Slot_3": 2
+        },
+        "Defense": 36,
+        "Skills": {},
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Volvidon Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 50,
+        "Skills": {
+            "Rapid Morph": 1,
+            "Evade Extender": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Ludroth Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 3
+        },
+        "Defense": 48,
+        "Skills": {
+            "Power Prolonger": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Barroth Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 2,
+            "Slot_2": 1
+        },
+        "Defense": 50,
+        "Skills": {
+            "Guard": 1,
+            "Defense Boost": 1,
+            "Offensive Guard": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Khezu Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 38,
+        "Skills": {
+            "Focus": 1,
+            "Slugger": 1,
+            "Recovery Speed": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Kulu-Ya-Ku Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 38,
+        "Skills": {
+            "Stun Resistance": 1,
+            "Critical Eye": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Lagombi Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 36,
+        "Skills": {
+            "Jump Master": 1,
+            "Critical Eye": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Bone Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 32,
+        "Skills": {
+            "Muck Resistance": 2,
+            "Focus": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 4
+    },
+    "Dober Greaves": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 52,
+        "Skills": {
+            "Dragon Attack": 1,
+            "Focus": 1,
+            "Heroics": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Melahoa Roots S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Recovery Up": 1,
+            "Recovery Speed": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Makluva Pants S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Bubbly Dance": 1,
+            "Speed Eating": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Death Stench Heel S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Protective Polish": 1,
+            "Rapid Morph": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Mosgharl Roots S": {
+        "Decoration_Slots": {
+            "Slot_1": 2,
+            "Slot_2": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Recoil Down": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Vaik Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 3,
+            "Slot_2": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Ammo Up": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Utsushi Greaves (V) S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Wide-Range": 1,
+            "Free Meal": 1,
+            "Good Luck": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Utsushi Greaves (H) S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Evade Window": 1,
+            "Agitator": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Shelled Sandals S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Spread Up": 1,
+            "Pierce Up": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Bishaten Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 2,
+            "Slot_2": 1,
+            "Slot_3": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Maximum Might": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Somnacanth Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 58,
+        "Skills": {
+            "Divine Blessing": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Remobra Feet S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Weakness Exploit": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Barioth Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 3,
+            "Slot_2": 1
+        },
+        "Defense": 58,
+        "Skills": {
+            "Quick Sheath": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Rathian Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 52,
+        "Skills": {
+            "Blight Resistance": 1,
+            "Free Meal": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Basarios Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 3
+        },
+        "Defense": 52,
+        "Skills": {
+            "Load Shells": 1,
+            "Defense Boost": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Pukei Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1,
+            "Slot_3": 1
+        },
+        "Defense": 50,
+        "Skills": {
+            "Constitution": 1,
+            "Aim Booster": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Jyuratodus Greaves": {
+        "Decoration_Slots": {
+            "Slot_1": 2,
+            "Slot_2": 1,
+            "Slot_3": 1
+        },
+        "Defense": 48,
+        "Skills": {
+            "Guard Up": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Kadachi Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 2,
+            "Slot_2": 1
+        },
+        "Defense": 58,
+        "Skills": {
+            "Constitution": 1,
+            "Critical Eye": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Chrome Metal Coil": {
+        "Decoration_Slots": {
+            "Slot_1": 3,
+            "Slot_2": 1,
+            "Slot_3": 2
+        },
+        "Defense": 46,
+        "Skills": {},
+        "Armor_Type": "Legs",
+        "Rarity": 5
+    },
+    "Aelucanth Crura S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 62,
+        "Skills": {
+            "Critical Eye": 2,
+            "Dragon Attack": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 6
+    },
+    "Rhopessa Crura S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 62,
+        "Skills": {
+            "Critical Eye": 2,
+            "Dragon Attack": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 6
+    },
+    "Jelly Boots S": {
+        "Decoration_Slots": {
+            "Slot_1": 3,
+            "Slot_2": 1
+        },
+        "Defense": 62,
+        "Skills": {
+            "Blast Attack": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 6
+    },
+    "Rakna Greaves": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 66,
+        "Skills": {
+            "Constitution": 2,
+            "Stamina Surge": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 6
+    },
+    "Goss Harag Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 64,
+        "Skills": {
+            "Punishing Draw": 1,
+            "Agitator": 3
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 6
+    },
+    "Almudron Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 3,
+            "Slot_2": 1
+        },
+        "Defense": 64,
+        "Skills": {
+            "Razor Sharp": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 6
+    },
+    "Nargacuga Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 60,
+        "Skills": {
+            "Evade Window": 2,
+            "Critical Eye": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 6
+    },
+    "Rathalos Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 62,
+        "Skills": {
+            "Attack Boost": 1,
+            "Partbreaker": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 6
+    },
+    "Tigrex Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 64,
+        "Skills": {
+            "Speed Eating": 2,
+            "Mind's Eye": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 6
+    },
+    "Diablos Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 64,
+        "Skills": {
+            "Guard": 1,
+            "Offensive Guard": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 6
+    },
+    "Zinogre Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 62,
+        "Skills": {
+            "Latent Power": 1,
+            "Constitution": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 6
+    },
+    "Anjanath Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 60,
+        "Skills": {
+            "Marathon Runner": 2
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 6
+    },
+    "Sinister Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 64,
+        "Skills": {
+            "Hellfire Cloak": 1,
+            "Resentment": 1,
+            "Flinch Free": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 6
+    },
+    "Mizutsune Greaves S": {
+        "Decoration_Slots": {
+            "Slot_1": 3,
+            "Slot_2": 1,
+            "Slot_3": 1
+        },
+        "Defense": 60,
+        "Skills": {
+            "Bubbly Dance": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 6
+    },
+    "Foot of Ibushi": {
+        "Decoration_Slots": {},
+        "Defense": 66,
+        "Skills": {
+            "Wind Alignment": 1,
+            "Slugger": 1,
+            "Guard Up": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 7
+    },
+    "Foot of Narwa": {
+        "Decoration_Slots": {},
+        "Defense": 76,
+        "Skills": {
+            "Thunder Alignment": 1,
+            "Evade Window": 1,
+            "Marathon Runner": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 7
+    },
+    "Golden Hakama": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 70,
+        "Skills": {
+            "Critical Boost": 2,
+            "Latent Power": 1
+        },
+        "Armor_Type": "Legs",
+        "Rarity": 7
+    }
+}
