@@ -1,11 +1,11 @@
 const JsonURLS = {
-  Head: "data/Head.json",
-  Torso: "data/Torso.json",
-  Arms: "data/Arms.json",
-  Waist: "data/Waist.json",
-  Legs: "data/Legs.json",
-  Skills: "data/Skills.json",
-  Decos: "data/Decorations.json",
+  Head: "Data/Head.json",
+  Torso: "Data/Torso.json",
+  Arms: "Data/Arms.json",
+  Waist: "Data/Waist.json",
+  Legs: "Data/Legs.json",
+  Skills: "Data/Skills.json",
+  Decos: "Data/Decorations.json",
 };
 
 const Decoration_Level_IMG = [
