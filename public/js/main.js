@@ -1,17 +1,17 @@
 const JsonURLS = {
-  Head: "public/data/Head.json",
-  Torso: "public/data/Torso.json",
-  Arms: "public/data/Arms.json",
-  Waist: "public/data/Waist.json",
-  Legs: "public/data/Legs.json",
-  Skills: "public/data/Skills.json",
-  Decos: "public/data/Decorations.json",
+  Head: "data/Head.json",
+  Torso: "data/Torso.json",
+  Arms: "data/Arms.json",
+  Waist: "data/Waist.json",
+  Legs: "data/Legs.json",
+  Skills: "data/Skills.json",
+  Decos: "data/Decorations.json",
 };
 
 const Decoration_Level_IMG = [
-  "public/Assets/deco1.png",
-  "public/Assets/deco2.png",
-  "public/Assets/deco3.png",
+  "Assets/deco1.png",
+  "Assets/deco2.png",
+  "Assets/deco3.png",
 ];
 
 let Jsons = {};
