@@ -62,7 +62,7 @@ function getCharmJson() {
     charmJsonString == "" ||
     typeof charmJsonString == undefined
   )
-    return { "None" : "None" };
+    return {};
   return JSON.parse(charmJsonString);
 }
 
@@ -494,7 +494,12 @@ $(document).ready(function () {
     let data = charmTable.row($(this).parents("tr")[0]).data();
     let decision = confirm("Are you sure you want to delete this charm?");
     if (decision) {
-      removeCharm(data[0]);
+      try {
+        console.log(data)
+        removeCharm(data[0]);
+      } catch (error) {
+        removeCharm(data);
+      }   
       await showPieceSelectionItems("charmPieceSelector", "Charm", true);
       charmTable.row($(this).parents("tr")[0]).remove().draw();
     }
