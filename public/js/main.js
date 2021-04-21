@@ -32,7 +32,7 @@ let ResultSkills = {
   WaistDeco: {},
   LegsDeco: {},
   CharmDeco: {},
-  WeaponDeco: {}
+  WeaponDeco: {},
 };
 
 // Utilities
@@ -57,8 +57,12 @@ async function getJson(name, isCharm) {
 
 function getCharmJson() {
   let charmJsonString = localStorage.getItem("charms", "");
-  if (charmJsonString == undefined || typeof charmJsonString == undefined)
-    return {};
+  if (
+    charmJsonString == null ||
+    charmJsonString == "" ||
+    typeof charmJsonString == undefined
+  )
+    return { "None" : "None" };
   return JSON.parse(charmJsonString);
 }
 
@@ -68,11 +72,12 @@ function setCharmJson(charmJson) {
 
 function removeCharm(charmName) {
   let charms = getCharmJson();
-  delete charms[charmName]
-  setCharmJson(charms)
+  delete charms[charmName];
+  setCharmJson(charms);
 }
 
 function decorationSlotStringify(slots) {
+  if (Object.keys(slots).length == 0) return `0`;
   if (Object.keys(slots).length == 1) return `${slots["Slot_1"]}`;
   if (Object.keys(slots).length == 2)
     return `${slots["Slot_1"]} - ${slots["Slot_2"]}`;
@@ -80,15 +85,18 @@ function decorationSlotStringify(slots) {
     return `${slots["Slot_1"]} - ${slots["Slot_2"]} - ${slots["Slot_3"]}`;
 }
 
-function parseDecorationSlots(slots){
-  let decoSlots = {}
-  if (slots[0] == "0") { return decoSlots }
-  else decoSlots["Slot_1"] = parseInt(slots[0])
-  if (slots[1] == "0") { return decoSlots }
-  else decoSlots["Slot_2"] = parseInt(slots[1])
-  if (slots[2] == "0") { return decoSlots }
-  else decoSlots["Slot_3"] = parseInt(slots[2])
-  return decoSlots
+function parseDecorationSlots(slots) {
+  let decoSlots = {};
+  if (slots[0] == "0") {
+    return decoSlots;
+  } else decoSlots["Slot_1"] = parseInt(slots[0]);
+  if (slots[1] == "0") {
+    return decoSlots;
+  } else decoSlots["Slot_2"] = parseInt(slots[1]);
+  if (slots[2] == "0") {
+    return decoSlots;
+  } else decoSlots["Slot_3"] = parseInt(slots[2]);
+  return decoSlots;
 }
 
 async function injectSkillToSkillsDisplayer(displayer, skill) {
@@ -254,7 +262,13 @@ async function onNewPieceSelected(selectorId, pieceName, isCharm) {
 
   ResultSkills[pieceName] = {};
   ResultSkills[pieceName + "Deco"] = {};
-  if (pieceDetail["Skills"].length <= 0) return;
+  if (selectedItem == "") {
+    await displaySetResult()
+    return
+  };
+  if (pieceDetail["Skills"].length <= 0) {
+    return
+  };
   Object.entries(pieceDetail["Skills"]).forEach((skill) => {
     const Skill_Name = skill[0];
     const Skill_Level = parseInt(skill[1]);
@@ -423,9 +437,7 @@ async function createCharm(name, skills, slots) {
   charms[name]["Decoration_Slots"] = slotsJson;
   charms[name]["Skills"] = skills;
 
-  let charmPieceSelector = document.getElementById("charmPieceSelector")
-
-  injectOptionToSelector(charmPieceSelector, name, name)
+  let charmPieceSelector = document.getElementById("charmPieceSelector");
 
   injectCharmToCharmTable(
     name,
@@ -434,24 +446,24 @@ async function createCharm(name, skills, slots) {
   );
 
   setCharmJson(charms);
+  await showPieceSelectionItems("charmPieceSelector", "Charm", true);
 }
 
-async function onNewWeaponSelected(){
-  let weaponSlotSelector = document.getElementById("weaponSlotSelector")
-  let weaponDecorationDisplayer = document.getElementById("weaponDecorationsDisplayer")
-  let decorationSlots = parseDecorationSlots(weaponSlotSelector.value)
-  weaponDecorationDisplayer.innerHTML = ""
+async function onNewWeaponSelected() {
+  let weaponSlotSelector = document.getElementById("weaponSlotSelector");
+  let weaponDecorationDisplayer = document.getElementById(
+    "weaponDecorationsDisplayer"
+  );
+  let decorationSlots = parseDecorationSlots(weaponSlotSelector.value);
+  weaponDecorationDisplayer.innerHTML = "";
   injectDecoInputToDecoSelector(
     weaponDecorationDisplayer,
     "weaponPieceSelector",
     decorationSlots
   );
-
 }
 
-async function initWeaponSlotSelector(){
-
-}
+async function initWeaponSlotSelector() {}
 
 async function main() {
   await showPieceSelectionItems("headPieceSelector", "Head");
@@ -461,8 +473,8 @@ async function main() {
   await showPieceSelectionItems("legsPieceSelector", "Legs");
   await showPieceSelectionItems("charmPieceSelector", "Charm", true);
   await initCharmMaker();
-  displayCharmsToTable();
-  await onNewWeaponSelected()
+  await displayCharmsToTable();
+  await onNewWeaponSelected();
 }
 
 $(document).ready(function () {
@@ -478,12 +490,13 @@ $(document).ready(function () {
       },
     ],
   });
-  $("#charmTable tbody").on("click", "button", function () {
+  $("#charmTable tbody").on("click", "button", async function () {
     let data = charmTable.row($(this).parents("tr")[0]).data();
     let decision = confirm("Are you sure you want to delete this charm?");
     if (decision) {
       removeCharm(data[0]);
-      charmTable.row($(this).parents("tr")[0]).remove().draw()
+      await showPieceSelectionItems("charmPieceSelector", "Charm", true);
+      charmTable.row($(this).parents("tr")[0]).remove().draw();
     }
   });
   main();
@@ -503,50 +516,54 @@ document.querySelectorAll("[id$='PieceSelector']").forEach((selector) => {
   });
 });
 
-document.getElementById("weaponSlotSelector").addEventListener("change", (e) => {
-  onNewWeaponSelected()
-})
+document
+  .getElementById("weaponSlotSelector")
+  .addEventListener("change", (e) => {
+    onNewWeaponSelected();
+  });
 
-document.getElementById("createCharmBtn").addEventListener("click", (e) => {
-  let charmName = document.getElementById("charmMakingName").value;
+document
+  .getElementById("createCharmBtn")
+  .addEventListener("click", async (e) => {
+    let charmName = document.getElementById("charmMakingName").value;
 
-  if (charmName == "") {
-    return alert("Charm name can't be empty");
-  }
-  if (charmName.length > 16) {
-    return alert("Charm name must be less then 16 characters");
-  }
+    if (charmName == "") {
+      return alert("Charm name can't be empty");
+    }
+    if (charmName.length > 16) {
+      return alert("Charm name must be less then 16 characters");
+    }
 
-  let skillSelector1 = document.getElementById("charmMakingSkillSelector1");
-  let levelSelector1 = document.getElementById("charmMakingLevelSelector1");
-  let skillSelector2 = document.getElementById("charmMakingSkillSelector2");
-  let levelSelector2 = document.getElementById("charmMakingLevelSelector2");
-  let skillSelector3 = document.getElementById("charmMakingSkillSelector3");
-  let levelSelector3 = document.getElementById("charmMakingLevelSelector3");
-  let slotSelector = document.getElementById("charmMakingSlotSelector");
+    let skillSelector1 = document.getElementById("charmMakingSkillSelector1");
+    let levelSelector1 = document.getElementById("charmMakingLevelSelector1");
+    let skillSelector2 = document.getElementById("charmMakingSkillSelector2");
+    let levelSelector2 = document.getElementById("charmMakingLevelSelector2");
+    let skillSelector3 = document.getElementById("charmMakingSkillSelector3");
+    let levelSelector3 = document.getElementById("charmMakingLevelSelector3");
+    let slotSelector = document.getElementById("charmMakingSlotSelector");
 
-  skills = {};
-  if (skillSelector1.value != "None" && levelSelector1.value != "0") {
-    skills[skillSelector1.value] = parseInt(levelSelector1.value);
-  }
-  if (
-    skillSelector2.value != "None" &&
-    levelSelector2.value != "0" &&
-    skillSelector2.value != skillSelector1.value
-  ) {
-    skills[skillSelector2.value] = parseInt(levelSelector2.value);
-  }
-  if (
-    skillSelector3.value != "None" &&
-    levelSelector3.value != "0" &&
-    skillSelector3.value != skillSelector1.value &&
-    skillSelector3.value != skillSelector2.value
-  ) {
-    skills[skillSelector3.value] = parseInt(levelSelector3.value);
-  }
+    skills = {};
+    if (skillSelector1.value != "None" && levelSelector1.value != "0") {
+      skills[skillSelector1.value] = parseInt(levelSelector1.value);
+    }
+    if (
+      skillSelector2.value != "None" &&
+      levelSelector2.value != "0" &&
+      skillSelector2.value != skillSelector1.value
+    ) {
+      skills[skillSelector2.value] = parseInt(levelSelector2.value);
+    }
+    if (
+      skillSelector3.value != "None" &&
+      levelSelector3.value != "0" &&
+      skillSelector3.value != skillSelector1.value &&
+      skillSelector3.value != skillSelector2.value
+    ) {
+      skills[skillSelector3.value] = parseInt(levelSelector3.value);
+    }
 
-  createCharm(charmName, skills, slotSelector.value);
-});
+    await createCharm(charmName, skills, slotSelector.value);
+  });
 
 // document.getElementById("headPieceSelector").addEventListener("change", (e) => {
 //   onNewPieceSelected("headPieceSelector", "Head");
