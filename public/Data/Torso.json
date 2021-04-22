@@ -1,1 +1,1314 @@
-{"Kamura Garb":{"Decoration_Slots":{},"Defense":1,"Skills":{"Wirebug Whisperer":1},"Armor_Type":"Torso","Rarity":1},"Leather Vest":{"Decoration_Slots":{},"Defense":1,"Skills":{"Botanist":1},"Armor_Type":"Torso","Rarity":1},"Chainmail Vest":{"Decoration_Slots":{},"Defense":4,"Skills":{"Peak Performance":1,"Defense Boost":1},"Armor_Type":"Torso","Rarity":1},"Hunter's Mail":{"Decoration_Slots":{},"Defense":4,"Skills":{"Attack Boost":1},"Armor_Type":"Torso","Rarity":1},"Izuchi Mail":{"Decoration_Slots":{},"Defense":10,"Skills":{"Critical Eye":1,"Recovery Speed":1},"Armor_Type":"Torso","Rarity":1},"Baggi Mail":{"Decoration_Slots":{},"Defense":10,"Skills":{"Attack Boost":1},"Armor_Type":"Torso","Rarity":1},"Arzuros Mail":{"Decoration_Slots":{},"Defense":10,"Skills":{"Counterstrike":1},"Armor_Type":"Torso","Rarity":1},"Lagombi Mail":{"Decoration_Slots":{},"Defense":10,"Skills":{"Affinity Sliding":1},"Armor_Type":"Torso","Rarity":1},"Alloy Mail":{"Decoration_Slots":{},"Defense":10,"Skills":{"Speed Sharpening":1},"Armor_Type":"Torso","Rarity":2},"Ingot Mail":{"Decoration_Slots":{},"Defense":18,"Skills":{"Windproof":1},"Armor_Type":"Torso","Rarity":2},"Melahoa Jacket":{"Decoration_Slots":{},"Defense":18,"Skills":{"Botanist":1,"Recovery Up":1},"Armor_Type":"Torso","Rarity":2},"Death Stench Muscle":{"Decoration_Slots":{},"Defense":18,"Skills":{"Rapid Morph":1},"Armor_Type":"Torso","Rarity":2},"Mosgharl Ribplate":{"Decoration_Slots":{},"Defense":18,"Skills":{"Reload Speed":2},"Armor_Type":"Torso","Rarity":2},"Vaik Mail":{"Decoration_Slots":{},"Defense":18,"Skills":{"Steadiness":1},"Armor_Type":"Torso","Rarity":2},"Chaos Plate":{"Decoration_Slots":{},"Defense":12,"Skills":{},"Armor_Type":"Torso","Rarity":2},"Edel Ribplate":{"Decoration_Slots":{},"Defense":12,"Skills":{"Recovery Up":1},"Armor_Type":"Torso","Rarity":2},"Skalda Thorax":{"Decoration_Slots":{},"Defense":12,"Skills":{"Critical Eye":1},"Armor_Type":"Torso","Rarity":2},"Spio Thorax":{"Decoration_Slots":{},"Defense":12,"Skills":{"Critical Eye":1},"Armor_Type":"Torso","Rarity":2},"Shell-Studded Vest":{"Decoration_Slots":{},"Defense":12,"Skills":{"Reload Speed":1},"Armor_Type":"Torso","Rarity":2},"Bishaten Mail":{"Decoration_Slots":{},"Defense":22,"Skills":{"Wide-Range":1},"Armor_Type":"Torso","Rarity":2},"Aknosom Mail":{"Decoration_Slots":{},"Defense":16,"Skills":{"Quick Sheath":1},"Armor_Type":"Torso","Rarity":2},"Tetranadon Mail":{"Decoration_Slots":{},"Defense":18,"Skills":{"Normal/Rapid Up":1},"Armor_Type":"Torso","Rarity":2},"Somnacanth Mail":{"Decoration_Slots":{},"Defense":22,"Skills":{"Item Prolonger":1},"Armor_Type":"Torso","Rarity":2},"Slagtoth Cloak":{"Decoration_Slots":{},"Defense":14,"Skills":{"Free Meal":1},"Armor_Type":"Torso","Rarity":2},"Rhenoplos Mail":{"Decoration_Slots":{},"Defense":14,"Skills":{"Artillery":1,"Stun Resistance":1},"Armor_Type":"Torso","Rarity":2},"Bnahabra Suit":{"Decoration_Slots":{},"Defense":14,"Skills":{"Paralysis Attack":1},"Armor_Type":"Torso","Rarity":2},"Remobra Suit":{"Decoration_Slots":{},"Defense":18,"Skills":{"Item Prolonger":1},"Armor_Type":"Torso","Rarity":2},"Droth Coil":{"Decoration_Slots":{},"Defense":14,"Skills":{"Water Resistance":1},"Armor_Type":"Torso","Rarity":2},"Uroktor Coil":{"Decoration_Slots":{},"Defense":18,"Skills":{"Fire Resistance":1},"Armor_Type":"Torso","Rarity":2},"Wroggi Mail":{"Decoration_Slots":{},"Defense":16,"Skills":{"Poison Attack":1},"Armor_Type":"Torso","Rarity":2},"Volvidon Mail":{"Decoration_Slots":{},"Defense":20,"Skills":{"Rapid Morph":1},"Armor_Type":"Torso","Rarity":2},"Ludroth Mail":{"Decoration_Slots":{},"Defense":18,"Skills":{"Stamina Surge":1},"Armor_Type":"Torso","Rarity":2},"Barroth Mail":{"Decoration_Slots":{},"Defense":18,"Skills":{"Attack Boost":1,"Defense Boost":1},"Armor_Type":"Torso","Rarity":2},"Khezu Mail":{"Decoration_Slots":{},"Defense":16,"Skills":{"Wall Runner":1},"Armor_Type":"Torso","Rarity":2},"Barioth Mail":{"Decoration_Slots":{},"Defense":20,"Skills":{"Quick Sheath":1},"Armor_Type":"Torso","Rarity":2},"Rathian Mail":{"Decoration_Slots":{},"Defense":22,"Skills":{"Recovery Up":1},"Armor_Type":"Torso","Rarity":2},"Basarios Mail":{"Decoration_Slots":{},"Defense":22,"Skills":{"Guard":1},"Armor_Type":"Torso","Rarity":2},"Kulu-Ya-Ku Mail":{"Decoration_Slots":{},"Defense":16,"Skills":{"Horn Maestro":1},"Armor_Type":"Torso","Rarity":2},"Pukei-Pukei Mail":{"Decoration_Slots":{},"Defense":20,"Skills":{"Constitution":1},"Armor_Type":"Torso","Rarity":2},"Tobi-Kadachi Mail":{"Decoration_Slots":{},"Defense":20,"Skills":{"Critical Eye":1},"Armor_Type":"Torso","Rarity":2},"Bone Mail":{"Decoration_Slots":{},"Defense":10,"Skills":{"Stamina Thief":1},"Armor_Type":"Torso","Rarity":2},"Makluva Cover":{"Decoration_Slots":{},"Defense":24,"Skills":{"Water Attack":2},"Armor_Type":"Torso","Rarity":3},"Aelucanth Thorax":{"Decoration_Slots":{},"Defense":24,"Skills":{"Critical Element":1,"Dragon Attack":1},"Armor_Type":"Torso","Rarity":3},"Rhopessa Vertex":{"Decoration_Slots":{},"Defense":24,"Skills":{"Critical Element":1},"Armor_Type":"Torso","Rarity":3},"Utsushi Chest (V)":{"Decoration_Slots":{},"Defense":24,"Skills":{"Wide-Range":1},"Armor_Type":"Torso","Rarity":3},"Utsushi Chest (H)":{"Decoration_Slots":{},"Defense":24,"Skills":{"Razor Sharp":1,"Spare Shot":1},"Armor_Type":"Torso","Rarity":3},"Jelly Vest":{"Decoration_Slots":{},"Defense":24,"Skills":{"Blast Attack":1},"Armor_Type":"Torso","Rarity":3},"Goss Harag Mail":{"Decoration_Slots":{},"Defense":30,"Skills":{"Critical Draw":1},"Armor_Type":"Torso","Rarity":3},"Almudron Mail":{"Decoration_Slots":{},"Defense":30,"Skills":{"Razor Sharp":1},"Armor_Type":"Torso","Rarity":3},"Nargacuga Mail":{"Decoration_Slots":{},"Defense":26,"Skills":{"Critical Eye":1},"Armor_Type":"Torso","Rarity":3},"Rathalos Mail":{"Decoration_Slots":{},"Defense":28,"Skills":{"Partbreaker":1,"Windproof":1},"Armor_Type":"Torso","Rarity":3},"Tigrex Mail":{"Decoration_Slots":{},"Defense":30,"Skills":{"Earplugs":1,"Bludgeoner":1},"Armor_Type":"Torso","Rarity":3},"Diablos Mail":{"Decoration_Slots":{},"Defense":30,"Skills":{"Guard":1},"Armor_Type":"Torso","Rarity":3},"Zinogre Mail":{"Decoration_Slots":{},"Defense":28,"Skills":{"Latent Power":1,"Critical Eye":1},"Armor_Type":"Torso","Rarity":3},"Anjanath Mail":{"Decoration_Slots":{},"Defense":26,"Skills":{"Focus":1,"Marathon Runner":1},"Armor_Type":"Torso","Rarity":3},"Sinister Garb":{"Decoration_Slots":{},"Defense":28,"Skills":{"Hellfire Cloak":1,"Resentment":1},"Armor_Type":"Torso","Rarity":3},"Mizutsune Mail":{"Decoration_Slots":{},"Defense":26,"Skills":{"Bubbly Dance":1,"Water Attack":1},"Armor_Type":"Torso","Rarity":3},"Brigade Suit":{"Decoration_Slots":{},"Defense":26,"Skills":{"Blight Resistance":1},"Armor_Type":"Torso","Rarity":3},"Kamura Garb S":{"Decoration_Slots":{"Slot_1":1},"Defense":30,"Skills":{"Wirebug Whisperer":2,"Wall Runner":1,"Critical Eye":1},"Armor_Type":"Torso","Rarity":4},"Leather Vest S":{"Decoration_Slots":{"Slot_1":2},"Defense":30,"Skills":{"Botanist":1},"Armor_Type":"Torso","Rarity":4},"Chainmail Vest S":{"Decoration_Slots":{"Slot_1":1},"Defense":32,"Skills":{"Defense Boost":1,"Flinch Free":2},"Armor_Type":"Torso","Rarity":4},"Hunter's Mail S":{"Decoration_Slots":{"Slot_1":1},"Defense":32,"Skills":{"Attack Boost":1,"Handicraft":1},"Armor_Type":"Torso","Rarity":4},"Alloy Mail S":{"Decoration_Slots":{"Slot_1":2},"Defense":32,"Skills":{"Speed Sharpening":2},"Armor_Type":"Torso","Rarity":4},"Ingot Mail S":{"Decoration_Slots":{"Slot_1":2,"Slot_2":1},"Defense":40,"Skills":{"Windproof":2},"Armor_Type":"Torso","Rarity":4},"Chaos Archplate":{"Decoration_Slots":{},"Defense":40,"Skills":{"Mushroomancer":2},"Armor_Type":"Torso","Rarity":4},"Edel Ribplate S":{"Decoration_Slots":{"Slot_1":1,"Slot_2":1},"Defense":40,"Skills":{"Recovery Up":2},"Armor_Type":"Torso","Rarity":4},"Skalda Thorax S":{"Decoration_Slots":{"Slot_1":2},"Defense":32,"Skills":{"Latent Power":1},"Armor_Type":"Torso","Rarity":4},"Spio Thorax S":{"Decoration_Slots":{"Slot_1":2},"Defense":32,"Skills":{"Latent Power":1},"Armor_Type":"Torso","Rarity":4},"Aknosom Mail S":{"Decoration_Slots":{"Slot_1":1},"Defense":38,"Skills":{"Quick Sheath":1,"Peak Performance":1},"Armor_Type":"Torso","Rarity":4},"Tetranadon Mail S":{"Decoration_Slots":{"Slot_1":1},"Defense":40,"Skills":{"Normal/Rapid Up":1,"Evade Extender":1},"Armor_Type":"Torso","Rarity":4},"Izuchi Mail S":{"Decoration_Slots":{"Slot_1":1},"Defense":36,"Skills":{"Critical Eye":2,"Recovery Speed":1},"Armor_Type":"Torso","Rarity":4},"Slagtoth Cloak S":{"Decoration_Slots":{"Slot_1":2,"Slot_2":1},"Defense":42,"Skills":{"Free Meal":2},"Armor_Type":"Torso","Rarity":4},"Rhenoplos Mail S":{"Decoration_Slots":{"Slot_1":2,"Slot_2":1},"Defense":42,"Skills":{"Artillery":1,"Stun Resistance":2},"Armor_Type":"Torso","Rarity":4},"Bnahabra Suit S":{"Decoration_Slots":{"Slot_1":1,"Slot_2":1},"Defense":34,"Skills":{"Paralysis Attack":1,"Evade Window":1},"Armor_Type":"Torso","Rarity":4},"Droth Coil S":{"Decoration_Slots":{"Slot_1":3,"Slot_2":1},"Defense":42,"Skills":{"Diversion":1},"Armor_Type":"Torso","Rarity":4},"Wroggi Mail S":{"Decoration_Slots":{"Slot_1":1},"Defense":38,"Skills":{"Rapid Fire Up":1,"Poison Attack":1},"Armor_Type":"Torso","Rarity":4},"Baggi Mail S":{"Decoration_Slots":{"Slot_1":1},"Defense":36,"Skills":{"Attack Boost":1,"Ice Attack":1},"Armor_Type":"Torso","Rarity":4},"Arzuros Mail S":{"Decoration_Slots":{"Slot_1":2},"Defense":36,"Skills":{"Counterstrike":1},"Armor_Type":"Torso","Rarity":4},"Volvidon Mail S":{"Decoration_Slots":{"Slot_1":2},"Defense":50,"Skills":{"Rapid Morph":1,"Jump Master":1},"Armor_Type":"Torso","Rarity":4},"Ludroth Mail S":{"Decoration_Slots":{"Slot_1":2},"Defense":48,"Skills":{"Stamina Surge":2},"Armor_Type":"Torso","Rarity":4},"Barroth Mail S":{"Decoration_Slots":{"Slot_1":2},"Defense":50,"Skills":{"Attack Boost":1,"Defense Boost":2},"Armor_Type":"Torso","Rarity":4},"Khezu Mail S":{"Decoration_Slots":{"Slot_1":1,"Slot_2":1},"Defense":38,"Skills":{"Wall Runner":1,"Recovery Up":1},"Armor_Type":"Torso","Rarity":4},"Kulu-Ya-Ku Mail S":{"Decoration_Slots":{"Slot_1":2},"Defense":38,"Skills":{"Slugger":2,"Horn Maestro":1},"Armor_Type":"Torso","Rarity":4},"Lagombi Mail S":{"Decoration_Slots":{"Slot_1":1,"Slot_2":1},"Defense":36,"Skills":{"Affinity Sliding":1,"Constitution":1},"Armor_Type":"Torso","Rarity":4},"Bone Mail S":{"Decoration_Slots":{"Slot_1":1},"Defense":32,"Skills":{"Stamina Thief":1,"Marathon Runner":1},"Armor_Type":"Torso","Rarity":4},"Dober Mail":{"Decoration_Slots":{"Slot_1":1},"Defense":52,"Skills":{"Dragon Attack":1,"Focus":1,"Power Prolonger":1,"Heroics":1},"Armor_Type":"Torso","Rarity":5},"Melahoa Jacket S":{"Decoration_Slots":{"Slot_1":1,"Slot_2":1},"Defense":52,"Skills":{"Botanist":2,"Recovery Up":1},"Armor_Type":"Torso","Rarity":5},"Makluva Cover S":{"Decoration_Slots":{"Slot_1":1},"Defense":52,"Skills":{"Water Attack":3},"Armor_Type":"Torso","Rarity":5},"D. Stench Muscle S":{"Decoration_Slots":{"Slot_1":2},"Defense":52,"Skills":{"Fortify":1,"Rapid Morph":1},"Armor_Type":"Torso","Rarity":5},"Mosgharl Ribplate S":{"Decoration_Slots":{"Slot_1":2},"Defense":52,"Skills":{"Reload Speed":2},"Armor_Type":"Torso","Rarity":5},"Vaik Mail S":{"Decoration_Slots":{"Slot_1":3,"Slot_2":1,"Slot_3":2},"Defense":52,"Skills":{},"Armor_Type":"Torso","Rarity":5},"Utsushi Chest (V) S":{"Decoration_Slots":{"Slot_1":1,"Slot_2":1},"Defense":52,"Skills":{"Wide-Range":1,"Good Luck":1},"Armor_Type":"Torso","Rarity":5},"Utsushi Chest (H) S":{"Decoration_Slots":{"Slot_1":1},"Defense":52,"Skills":{"Razor Sharp":1,"Spare Shot":1,"Evade Window":1,"Agitator":1},"Armor_Type":"Torso","Rarity":5},"Shell-Studded Vest S":{"Decoration_Slots":{"Slot_1":1,"Slot_2":1},"Defense":52,"Skills":{"Normal/Rapid Up":1,"Pierce Up":1},"Armor_Type":"Torso","Rarity":5},"Bishaten Mail S":{"Decoration_Slots":{"Slot_1":3},"Defense":52,"Skills":{"Wide-Range":1},"Armor_Type":"Torso","Rarity":5},"Somnacanth Mail S":{"Decoration_Slots":{"Slot_1":1,"Slot_2":1},"Defense":58,"Skills":{"Sleep Attack":1,"Item Prolonger":1},"Armor_Type":"Torso","Rarity":5},"Remobra Suit S":{"Decoration_Slots":{"Slot_1":1,"Slot_2":1},"Defense":52,"Skills":{"Critical Boost":1},"Armor_Type":"Torso","Rarity":5},"Uroktor Torso S":{"Decoration_Slots":{"Slot_1":2},"Defense":52,"Skills":{"Fire Attack":3},"Armor_Type":"Torso","Rarity":5},"Barioth Mail S":{"Decoration_Slots":{"Slot_1":2,"Slot_2":1,"Slot_3":1},"Defense":58,"Skills":{"Quick Sheath":1,"Maximum Might":1},"Armor_Type":"Torso","Rarity":5},"Rathian Mail S":{"Decoration_Slots":{"Slot_1":3,"Slot_2":1,"Slot_3":1},"Defense":52,"Skills":{"Recovery Up":1,"Botanist":1},"Armor_Type":"Torso","Rarity":5},"Basarios Mail S":{"Decoration_Slots":{"Slot_1":1,"Slot_2":1},"Defense":52,"Skills":{"Guard":1,"Load Shells":1},"Armor_Type":"Torso","Rarity":5},"Pukei-Pukei Mail S":{"Decoration_Slots":{"Slot_1":1},"Defense":50,"Skills":{"Special Ammo Boost":1,"Constitution":2},"Armor_Type":"Torso","Rarity":5},"Jyuratodus Mail":{"Decoration_Slots":{"Slot_1":1,"Slot_2":1,"Slot_3":1},"Defense":48,"Skills":{"Power Prolonger":2,"Evade Extender":1},"Armor_Type":"Torso","Rarity":5},"Tobi-Kadachi Mail S":{"Decoration_Slots":{"Slot_1":3},"Defense":58,"Skills":{"Mind's Eye":1,"Critical Eye":1},"Armor_Type":"Torso","Rarity":5},"Aelucanth Thorax S":{"Decoration_Slots":{"Slot_1":1},"Defense":62,"Skills":{"Critical Element":1,"Critical Eye":2,"Dragon Attack":1},"Armor_Type":"Torso","Rarity":6},"Rhopessa Vertex S":{"Decoration_Slots":{"Slot_1":1},"Defense":62,"Skills":{"Critical Element":1},"Armor_Type":"Torso","Rarity":6},"Jelly Vest S":{"Decoration_Slots":{"Slot_1":2,"Slot_2":1},"Defense":62,"Skills":{"Blast Attack":2},"Armor_Type":"Torso","Rarity":6},"Rakna Mail":{"Decoration_Slots":{"Slot_1":2,"Slot_2":1},"Defense":66,"Skills":{"Spread Up":1,"Reload Speed":1},"Armor_Type":"Torso","Rarity":6},"Goss Harag Mail S":{"Decoration_Slots":{"Slot_1":2,"Slot_2":1},"Defense":64,"Skills":{"Critical Draw":1,"Resentment":1},"Armor_Type":"Torso","Rarity":6},"Almudron Mail S":{"Decoration_Slots":{"Slot_1":1},"Defense":64,"Skills":{"Razor Sharp":2,"Power Prolonger":1},"Armor_Type":"Torso","Rarity":6},"Nargacuga Mail S":{"Decoration_Slots":{"Slot_1":1,"Slot_2":1},"Defense":60,"Skills":{"Evade Window":1,"Critical Eye":2},"Armor_Type":"Torso","Rarity":6},"Rathalos Mail S":{"Decoration_Slots":{"Slot_1":1},"Defense":62,"Skills":{"Attack Boost":1,"Partbreaker":1,"Windproof":1},"Armor_Type":"Torso","Rarity":6},"Tigrex Mail S":{"Decoration_Slots":{"Slot_1":1,"Slot_2":1},"Defense":64,"Skills":{"Earplugs":2,"Bludgeoner":1},"Armor_Type":"Torso","Rarity":6},"Diablos Mail S":{"Decoration_Slots":{"Slot_1":1},"Defense":64,"Skills":{"Guard":2,"Offensive Guard":1},"Armor_Type":"Torso","Rarity":6},"Zinogre Mail S":{"Decoration_Slots":{"Slot_1":1},"Defense":62,"Skills":{"Latent Power":1,"Weakness Exploit":1},"Armor_Type":"Torso","Rarity":6},"Anjanath Mail S":{"Decoration_Slots":{"Slot_1":1,"Slot_2":1},"Defense":60,"Skills":{"Focus":2,"Marathon Runner":1},"Armor_Type":"Torso","Rarity":6},"Sinister Garb S":{"Decoration_Slots":{"Slot_1":2},"Defense":64,"Skills":{"Hellfire Cloak":1,"Resentment":1},"Armor_Type":"Torso","Rarity":6},"Mizutsune Mail S":{"Decoration_Slots":{"Slot_1":1},"Defense":60,"Skills":{"Bubbly Dance":1,"Resuscitate":1},"Armor_Type":"Torso","Rarity":6},"Brigade Suit S":{"Decoration_Slots":{"Slot_1":1},"Defense":62,"Skills":{"Capture Master":1,"Geologist":1},"Armor_Type":"Torso","Rarity":6},"Ibushi Breastplate":{"Decoration_Slots":{},"Defense":66,"Skills":{"Wind Alignment":1,"Guard":1,"Flinch Free":1},"Armor_Type":"Torso","Rarity":7},"Narwa Breastplate":{"Decoration_Slots":{},"Defense":76,"Skills":{"Thunder Alignment":1,"Constitution":1,"Critical Draw":1},"Armor_Type":"Torso","Rarity":7},"Golden Haori":{"Decoration_Slots":{"Slot_1":2},"Defense":70,"Skills":{"Heroics":1,"Maximum Might":1,"Latent Power":1},"Armor_Type":"Torso","Rarity":7}}
+{
+    "Kamura Garb": {
+        "Decoration_Slots": {},
+        "Defense": 1,
+        "Skills": {
+            "Wirebug Whisperer": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 1
+    },
+    "Leather Vest": {
+        "Decoration_Slots": {},
+        "Defense": 1,
+        "Skills": {
+            "Botanist": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 1
+    },
+    "Chainmail Vest": {
+        "Decoration_Slots": {},
+        "Defense": 4,
+        "Skills": {
+            "Peak Performance": 1,
+            "Defense Boost": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 1
+    },
+    "Hunter's Mail": {
+        "Decoration_Slots": {},
+        "Defense": 4,
+        "Skills": {
+            "Attack Boost": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 1
+    },
+    "Izuchi Mail": {
+        "Decoration_Slots": {},
+        "Defense": 10,
+        "Skills": {
+            "Critical Eye": 1,
+            "Recovery Speed": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 1
+    },
+    "Baggi Mail": {
+        "Decoration_Slots": {},
+        "Defense": 10,
+        "Skills": {
+            "Attack Boost": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 1
+    },
+    "Arzuros Mail": {
+        "Decoration_Slots": {},
+        "Defense": 10,
+        "Skills": {
+            "Counterstrike": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 1
+    },
+    "Lagombi Mail": {
+        "Decoration_Slots": {},
+        "Defense": 10,
+        "Skills": {
+            "Affinity Sliding": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 1
+    },
+    "Alloy Mail": {
+        "Decoration_Slots": {},
+        "Defense": 10,
+        "Skills": {
+            "Speed Sharpening": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Ingot Mail": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Windproof": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Melahoa Jacket": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Botanist": 1,
+            "Recovery Up": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Death Stench Muscle": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Rapid Morph": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Mosgharl Ribplate": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Reload Speed": 2
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Vaik Mail": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Steadiness": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Chaos Plate": {
+        "Decoration_Slots": {},
+        "Defense": 12,
+        "Skills": {},
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Edel Ribplate": {
+        "Decoration_Slots": {},
+        "Defense": 12,
+        "Skills": {
+            "Recovery Up": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Skalda Thorax": {
+        "Decoration_Slots": {},
+        "Defense": 12,
+        "Skills": {
+            "Critical Eye": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Spio Thorax": {
+        "Decoration_Slots": {},
+        "Defense": 12,
+        "Skills": {
+            "Critical Eye": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Shell-Studded Vest": {
+        "Decoration_Slots": {},
+        "Defense": 12,
+        "Skills": {
+            "Reload Speed": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Bishaten Mail": {
+        "Decoration_Slots": {},
+        "Defense": 22,
+        "Skills": {
+            "Wide-Range": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Aknosom Mail": {
+        "Decoration_Slots": {},
+        "Defense": 16,
+        "Skills": {
+            "Quick Sheath": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Tetranadon Mail": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Normal/Rapid Up": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Somnacanth Mail": {
+        "Decoration_Slots": {},
+        "Defense": 22,
+        "Skills": {
+            "Item Prolonger": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Slagtoth Cloak": {
+        "Decoration_Slots": {},
+        "Defense": 14,
+        "Skills": {
+            "Free Meal": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Rhenoplos Mail": {
+        "Decoration_Slots": {},
+        "Defense": 14,
+        "Skills": {
+            "Artillery": 1,
+            "Stun Resistance": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Bnahabra Suit": {
+        "Decoration_Slots": {},
+        "Defense": 14,
+        "Skills": {
+            "Paralysis Attack": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Remobra Suit": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Item Prolonger": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Droth Coil": {
+        "Decoration_Slots": {},
+        "Defense": 14,
+        "Skills": {
+            "Water Resistance": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Uroktor Coil": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Fire Resistance": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Wroggi Mail": {
+        "Decoration_Slots": {},
+        "Defense": 16,
+        "Skills": {
+            "Poison Attack": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Volvidon Mail": {
+        "Decoration_Slots": {},
+        "Defense": 20,
+        "Skills": {
+            "Rapid Morph": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Ludroth Mail": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Stamina Surge": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Barroth Mail": {
+        "Decoration_Slots": {},
+        "Defense": 18,
+        "Skills": {
+            "Attack Boost": 1,
+            "Defense Boost": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Khezu Mail": {
+        "Decoration_Slots": {},
+        "Defense": 16,
+        "Skills": {
+            "Wall Runner": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Barioth Mail": {
+        "Decoration_Slots": {},
+        "Defense": 20,
+        "Skills": {
+            "Quick Sheath": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Rathian Mail": {
+        "Decoration_Slots": {},
+        "Defense": 22,
+        "Skills": {
+            "Recovery Up": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Basarios Mail": {
+        "Decoration_Slots": {},
+        "Defense": 22,
+        "Skills": {
+            "Guard": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Kulu-Ya-Ku Mail": {
+        "Decoration_Slots": {},
+        "Defense": 16,
+        "Skills": {
+            "Horn Maestro": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Pukei-Pukei Mail": {
+        "Decoration_Slots": {},
+        "Defense": 20,
+        "Skills": {
+            "Constitution": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Tobi-Kadachi Mail": {
+        "Decoration_Slots": {},
+        "Defense": 20,
+        "Skills": {
+            "Critical Eye": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Bone Mail": {
+        "Decoration_Slots": {},
+        "Defense": 10,
+        "Skills": {
+            "Stamina Thief": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 2
+    },
+    "Makluva Cover": {
+        "Decoration_Slots": {},
+        "Defense": 24,
+        "Skills": {
+            "Water Attack": 2
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 3
+    },
+    "Aelucanth Thorax": {
+        "Decoration_Slots": {},
+        "Defense": 24,
+        "Skills": {
+            "Critical Element": 1,
+            "Dragon Attack": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 3
+    },
+    "Rhopessa Vertex": {
+        "Decoration_Slots": {},
+        "Defense": 24,
+        "Skills": {
+            "Critical Element": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 3
+    },
+    "Utsushi Chest (V)": {
+        "Decoration_Slots": {},
+        "Defense": 24,
+        "Skills": {
+            "Wide-Range": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 3
+    },
+    "Utsushi Chest (H)": {
+        "Decoration_Slots": {},
+        "Defense": 24,
+        "Skills": {
+            "Razor Sharp": 1,
+            "Spare Shot": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 3
+    },
+    "Jelly Vest": {
+        "Decoration_Slots": {},
+        "Defense": 24,
+        "Skills": {
+            "Blast Attack": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 3
+    },
+    "Goss Harag Mail": {
+        "Decoration_Slots": {},
+        "Defense": 30,
+        "Skills": {
+            "Critical Draw": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 3
+    },
+    "Almudron Mail": {
+        "Decoration_Slots": {},
+        "Defense": 30,
+        "Skills": {
+            "Razor Sharp": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 3
+    },
+    "Nargacuga Mail": {
+        "Decoration_Slots": {},
+        "Defense": 26,
+        "Skills": {
+            "Critical Eye": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 3
+    },
+    "Rathalos Mail": {
+        "Decoration_Slots": {},
+        "Defense": 28,
+        "Skills": {
+            "Partbreaker": 1,
+            "Windproof": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 3
+    },
+    "Tigrex Mail": {
+        "Decoration_Slots": {},
+        "Defense": 30,
+        "Skills": {
+            "Earplugs": 1,
+            "Bludgeoner": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 3
+    },
+    "Diablos Mail": {
+        "Decoration_Slots": {},
+        "Defense": 30,
+        "Skills": {
+            "Guard": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 3
+    },
+    "Zinogre Mail": {
+        "Decoration_Slots": {},
+        "Defense": 28,
+        "Skills": {
+            "Latent Power": 1,
+            "Critical Eye": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 3
+    },
+    "Anjanath Mail": {
+        "Decoration_Slots": {},
+        "Defense": 26,
+        "Skills": {
+            "Focus": 1,
+            "Marathon Runner": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 3
+    },
+    "Sinister Garb": {
+        "Decoration_Slots": {},
+        "Defense": 28,
+        "Skills": {
+            "Hellfire Cloak": 1,
+            "Resentment": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 3
+    },
+    "Mizutsune Mail": {
+        "Decoration_Slots": {},
+        "Defense": 26,
+        "Skills": {
+            "Bubbly Dance": 1,
+            "Water Attack": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 3
+    },
+    "Brigade Suit": {
+        "Decoration_Slots": {},
+        "Defense": 26,
+        "Skills": {
+            "Blight Resistance": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 3
+    },
+    "Kamura Garb S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 30,
+        "Skills": {
+            "Wirebug Whisperer": 2,
+            "Wall Runner": 1,
+            "Critical Eye": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Leather Vest S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 30,
+        "Skills": {
+            "Botanist": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Chainmail Vest S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 32,
+        "Skills": {
+            "Defense Boost": 1,
+            "Flinch Free": 2
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Hunter's Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 32,
+        "Skills": {
+            "Attack Boost": 1,
+            "Handicraft": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Alloy Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 32,
+        "Skills": {
+            "Speed Sharpening": 2
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Ingot Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 2,
+            "Slot_2": 1
+        },
+        "Defense": 40,
+        "Skills": {
+            "Windproof": 2
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Chaos Archplate": {
+        "Decoration_Slots": {},
+        "Defense": 40,
+        "Skills": {
+            "Mushroomancer": 2
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Edel Ribplate S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 40,
+        "Skills": {
+            "Recovery Up": 2
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Skalda Thorax S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 32,
+        "Skills": {
+            "Latent Power": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Spio Thorax S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 32,
+        "Skills": {
+            "Latent Power": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Aknosom Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 38,
+        "Skills": {
+            "Quick Sheath": 1,
+            "Peak Performance": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Tetranadon Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 40,
+        "Skills": {
+            "Normal/Rapid Up": 1,
+            "Evade Extender": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Izuchi Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 36,
+        "Skills": {
+            "Critical Eye": 2,
+            "Recovery Speed": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Slagtoth Cloak S": {
+        "Decoration_Slots": {
+            "Slot_1": 2,
+            "Slot_2": 1
+        },
+        "Defense": 42,
+        "Skills": {
+            "Free Meal": 2
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Rhenoplos Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 2,
+            "Slot_2": 1
+        },
+        "Defense": 42,
+        "Skills": {
+            "Artillery": 1,
+            "Stun Resistance": 2
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Bnahabra Suit S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 34,
+        "Skills": {
+            "Paralysis Attack": 1,
+            "Evade Window": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Droth Coil S": {
+        "Decoration_Slots": {
+            "Slot_1": 3,
+            "Slot_2": 1
+        },
+        "Defense": 42,
+        "Skills": {
+            "Diversion": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Wroggi Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 38,
+        "Skills": {
+            "Rapid Fire Up": 1,
+            "Poison Attack": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Baggi Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 36,
+        "Skills": {
+            "Attack Boost": 1,
+            "Ice Attack": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Arzuros Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 36,
+        "Skills": {
+            "Counterstrike": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Volvidon Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 50,
+        "Skills": {
+            "Rapid Morph": 1,
+            "Jump Master": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Ludroth Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 48,
+        "Skills": {
+            "Stamina Surge": 2
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Barroth Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 50,
+        "Skills": {
+            "Attack Boost": 1,
+            "Defense Boost": 2
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Khezu Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 38,
+        "Skills": {
+            "Wall Runner": 1,
+            "Recovery Up": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Kulu-Ya-Ku Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 38,
+        "Skills": {
+            "Slugger": 2,
+            "Horn Maestro": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Lagombi Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 36,
+        "Skills": {
+            "Affinity Sliding": 1,
+            "Constitution": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Bone Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 32,
+        "Skills": {
+            "Stamina Thief": 1,
+            "Marathon Runner": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 4
+    },
+    "Dober Mail": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Dragon Attack": 1,
+            "Focus": 1,
+            "Power Prolonger": 1,
+            "Heroics": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Melahoa Jacket S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Botanist": 2,
+            "Recovery Up": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Makluva Cover S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Water Attack": 3
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "D. Stench Muscle S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 52,
+        "Skills": {
+            "Fortify": 1,
+            "Rapid Morph": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Mosgharl Ribplate S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 52,
+        "Skills": {
+            "Reload Speed": 2
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Vaik Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 3,
+            "Slot_2": 1,
+            "Slot_3": 2
+        },
+        "Defense": 52,
+        "Skills": {},
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Utsushi Chest (V) S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Wide-Range": 1,
+            "Good Luck": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Utsushi Chest (H) S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Razor Sharp": 1,
+            "Spare Shot": 1,
+            "Evade Window": 1,
+            "Agitator": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Shell-Studded Vest S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Normal/Rapid Up": 1,
+            "Pierce Up": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Bishaten Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 3
+        },
+        "Defense": 52,
+        "Skills": {
+            "Wide-Range": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Somnacanth Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 58,
+        "Skills": {
+            "Sleep Attack": 1,
+            "Item Prolonger": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Remobra Suit S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Critical Boost": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Uroktor Torso S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 52,
+        "Skills": {
+            "Fire Attack": 3
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Barioth Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 2,
+            "Slot_2": 1,
+            "Slot_3": 1
+        },
+        "Defense": 58,
+        "Skills": {
+            "Quick Sheath": 1,
+            "Maximum Might": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Rathian Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 3,
+            "Slot_2": 1,
+            "Slot_3": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Recovery Up": 1,
+            "Botanist": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Basarios Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 52,
+        "Skills": {
+            "Guard": 1,
+            "Load Shells": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Pukei-Pukei Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 50,
+        "Skills": {
+            "Special Ammo Boost": 1,
+            "Constitution": 2
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Jyuratodus Mail": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1,
+            "Slot_3": 1
+        },
+        "Defense": 48,
+        "Skills": {
+            "Power Prolonger": 2,
+            "Evade Extender": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Tobi-Kadachi Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 3
+        },
+        "Defense": 58,
+        "Skills": {
+            "Mind's Eye": 1,
+            "Critical Eye": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 5
+    },
+    "Aelucanth Thorax S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 62,
+        "Skills": {
+            "Critical Element": 1,
+            "Critical Eye": 2,
+            "Dragon Attack": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 6
+    },
+    "Rhopessa Vertex S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 62,
+        "Skills": {
+            "Critical Element": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 6
+    },
+    "Jelly Vest S": {
+        "Decoration_Slots": {
+            "Slot_1": 2,
+            "Slot_2": 1
+        },
+        "Defense": 62,
+        "Skills": {
+            "Blast Attack": 2
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 6
+    },
+    "Rakna Mail": {
+        "Decoration_Slots": {
+            "Slot_1": 2,
+            "Slot_2": 1
+        },
+        "Defense": 66,
+        "Skills": {
+            "Spread Up": 1,
+            "Reload Speed": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 6
+    },
+    "Goss Harag Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 2,
+            "Slot_2": 1
+        },
+        "Defense": 64,
+        "Skills": {
+            "Critical Draw": 1,
+            "Resentment": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 6
+    },
+    "Almudron Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 64,
+        "Skills": {
+            "Razor Sharp": 2,
+            "Power Prolonger": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 6
+    },
+    "Nargacuga Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 60,
+        "Skills": {
+            "Evade Window": 1,
+            "Critical Eye": 2
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 6
+    },
+    "Rathalos Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 62,
+        "Skills": {
+            "Attack Boost": 1,
+            "Partbreaker": 1,
+            "Windproof": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 6
+    },
+    "Tigrex Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 64,
+        "Skills": {
+            "Earplugs": 2,
+            "Bludgeoner": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 6
+    },
+    "Diablos Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 64,
+        "Skills": {
+            "Guard": 2,
+            "Offensive Guard": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 6
+    },
+    "Zinogre Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 62,
+        "Skills": {
+            "Latent Power": 1,
+            "Weakness Exploit": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 6
+    },
+    "Anjanath Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1,
+            "Slot_2": 1
+        },
+        "Defense": 60,
+        "Skills": {
+            "Focus": 2,
+            "Marathon Runner": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 6
+    },
+    "Sinister Garb S": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 64,
+        "Skills": {
+            "Hellfire Cloak": 1,
+            "Resentment": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 6
+    },
+    "Mizutsune Mail S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 60,
+        "Skills": {
+            "Bubbly Dance": 1,
+            "Resuscitate": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 6
+    },
+    "Brigade Suit S": {
+        "Decoration_Slots": {
+            "Slot_1": 1
+        },
+        "Defense": 62,
+        "Skills": {
+            "Capture Master": 1,
+            "Geologist": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 6
+    },
+    "Ibushi Breastplate": {
+        "Decoration_Slots": {},
+        "Defense": 66,
+        "Skills": {
+            "Wind Alignment": 1,
+            "Guard": 1,
+            "Flinch Free": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 7
+    },
+    "Narwa Breastplate": {
+        "Decoration_Slots": {},
+        "Defense": 76,
+        "Skills": {
+            "Thunder Alignment": 1,
+            "Constitution": 1,
+            "Critical Draw": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 7
+    },
+    "Golden Haori": {
+        "Decoration_Slots": {
+            "Slot_1": 2
+        },
+        "Defense": 70,
+        "Skills": {
+            "Heroics": 1,
+            "Maximum Might": 1,
+            "Latent Power": 1
+        },
+        "Armor_Type": "Torso",
+        "Rarity": 7
+    }
+}
