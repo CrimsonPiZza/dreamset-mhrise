@@ -1,1 +1,318 @@
-{"Attack Jewel":{"Level":2,"Skill":"Attack Boost"},"Expert Jewel":{"Level":2,"Skill":"Critical Eye"},"Mighty Jewel":{"Level":2,"Skill":"Maximum Might"},"Crit Element Jewel":{"Level":2,"Skill":"Critical Element"},"Blaze Jewel":{"Level":1,"Skill":"Fire Attack"},"Stream Jewel":{"Level":1,"Skill":"Water Attack"},"Frost Jewel":{"Level":1,"Skill":"Ice Attack"},"Bolt Jewel":{"Level":1,"Skill":"Thunder Attack"},"Dragon Jewel":{"Level":1,"Skill":"Dragon Attack"},"Venom Jewel":{"Level":1,"Skill":"Poison Attack"},"Mind's Eye Jewel":{"Level":2,"Skill":"Mind's Eye"},"Precise Jewel":{"Level":2,"Skill":"Aim Booster"},"Blunt Jewel":{"Level":2,"Skill":"Bludgeoner"},"Charger Jewel":{"Level":2,"Skill":"Focus"},"Enhancer Jewel":{"Level":2,"Skill":"Power Prolonger"},"Sprinter Jewel":{"Level":2,"Skill":"Marathon Runner"},"Physique Jewel":{"Level":2,"Skill":"Constitution"},"Refresh Jewel":{"Level":2,"Skill":"Stamina Surge"},"Ironwall Jewel":{"Level":2,"Skill":"Guard"},"Shield Jewel":{"Level":2,"Skill":"Guard Up"},"Guardian Jewel":{"Level":3,"Skill":"Offensive Guard"},"Draw Jewel":{"Level":3,"Skill":"Critical Draw"},"Gambit Jewel":{"Level":2,"Skill":"Punishing Draw"},"Sheath Jewel":{"Level":2,"Skill":"Quick Sheath"},"KO Jewel":{"Level":2,"Skill":"Slugger"},"Drain Jewel":{"Level":1,"Skill":"Stamina Thief"},"Slider Jewel":{"Level":1,"Skill":"Affinity Sliding"},"Sonorous Jewel":{"Level":1,"Skill":"Horn Maestro"},"Artillery Jewel":{"Level":2,"Skill":"Artillery"},"Magazine Jewel":{"Level":2,"Skill":"Load Shells"},"Trueshot Jewel":{"Level":2,"Skill":"Special Ammo Boost"},"Capacity Jewel":{"Level":3,"Skill":"Ammo Up"},"Quickload Jewel":{"Level":1,"Skill":"Reload Speed"},"Absorber Jewel":{"Level":1,"Skill":"Recoil Down"},"Sniper Jewel":{"Level":1,"Skill":"Steadiness"},"Defense Jewel":{"Level":1,"Skill":"Defense Boost"},"Protection Jewel":{"Level":2,"Skill":"Divine Blessing"},"Medicine Jewel":{"Level":2,"Skill":"Recovery Up"},"Recovery Jewel":{"Level":1,"Skill":"Recovery Speed"},"Gobbler Jewel":{"Level":2,"Skill":"Speed Eating"},"Earplug Jewel":{"Level":3,"Skill":"Earplugs"},"Wind Res Jewel":{"Level":1,"Skill":"Windproof"},"Footing Jewel":{"Level":2,"Skill":"Tremor Resistance"},"Bubble Jewel":{"Level":2,"Skill":"Bubbly Dance"},"Evasion Jewel":{"Level":2,"Skill":"Evade Window"},"Jumping Jewel":{"Level":2,"Skill":"Evade Extender"},"Fire Res Jewel":{"Level":1,"Skill":"Fire Resistance"},"Water Res Jewel":{"Level":1,"Skill":"Water Resistance"},"Ice Res Jewel":{"Level":1,"Skill":"Ice Resistance"},"Thunder Res Jewel":{"Level":1,"Skill":"Thunder Resistance"},"Dragon Res Jewel":{"Level":1,"Skill":"Dragon Resistance"},"Resistor Jewel":{"Level":2,"Skill":"Blight Resistance"},"Antidote Jewel":{"Level":1,"Skill":"Poison Resistance"},"Antipara Jewel":{"Level":1,"Skill":"Paralysis Resistance"},"Pep Jewel":{"Level":1,"Skill":"Sleep Resistance"},"Steadfast Jewel":{"Level":1,"Skill":"Stun Resistance"},"Muck Jewel":{"Level":1,"Skill":"Muck Resistance"},"Antiblast Jewel":{"Level":1,"Skill":"Blast Resistance"},"Botany Jewel":{"Level":1,"Skill":"Botanist"},"Geology Jewel":{"Level":1,"Skill":"Geologist"},"Destroyer Jewel":{"Level":2,"Skill":"Partbreaker"},"Grinder Jewel":{"Level":1,"Skill":"Speed Sharpening"},"Bomber Jewel":{"Level":1,"Skill":"Bombardier"},"Fungiform Jewel":{"Level":3,"Skill":"Mushroomancer"},"Enduring Jewel":{"Level":2,"Skill":"Item Prolonger"},"Friendship Jewel":{"Level":2,"Skill":"Wide-Range"},"Satiated Jewel":{"Level":1,"Skill":"Free Meal"},"Potential Jewel":{"Level":2,"Skill":"Heroics"},"Fortitude Jewel":{"Level":2,"Skill":"Fortify"},"Brace Jewel":{"Level":1,"Skill":"Flinch Free"},"Carver Jewel":{"Level":1,"Skill":"Carving Pro"},"Hungerless Jewel":{"Level":1,"Skill":"Hunger Resistance"},"Dive Jewel":{"Level":1,"Skill":"Leap of Faith"},"Diversion Jewel":{"Level":1,"Skill":"Diversion"},"Rodeo Jewel":{"Level":2,"Skill":"Master Mounter"},"Wirebug Jewel":{"Level":2,"Skill":"Wirebug Whisperer"},"Wall Run Jewel":{"Level":2,"Skill":"Wall Runner"},"Counter Jewel":{"Level":2,"Skill":"Counterstrike"},"Quickswitch Jewel":{"Level":2,"Skill":"Rapid Morph"}}
+{
+    "Attack Jewel": {
+        "Level": 2,
+        "Skill": "Attack Boost"
+    },
+    "Expert Jewel": {
+        "Level": 2,
+        "Skill": "Critical Eye"
+    },
+    "Mighty Jewel": {
+        "Level": 2,
+        "Skill": "Maximum Might"
+    },
+    "Crit Element Jewel": {
+        "Level": 2,
+        "Skill": "Critical Element"
+    },
+    "Blaze Jewel": {
+        "Level": 1,
+        "Skill": "Fire Attack"
+    },
+    "Stream Jewel": {
+        "Level": 1,
+        "Skill": "Water Attack"
+    },
+    "Frost Jewel": {
+        "Level": 1,
+        "Skill": "Ice Attack"
+    },
+    "Bolt Jewel": {
+        "Level": 1,
+        "Skill": "Thunder Attack"
+    },
+    "Dragon Jewel": {
+        "Level": 1,
+        "Skill": "Dragon Attack"
+    },
+    "Venom Jewel": {
+        "Level": 1,
+        "Skill": "Poison Attack"
+    },
+    "Mind's Eye Jewel": {
+        "Level": 2,
+        "Skill": "Mind's Eye"
+    },
+    "Precise Jewel": {
+        "Level": 2,
+        "Skill": "Aim Booster"
+    },
+    "Blunt Jewel": {
+        "Level": 2,
+        "Skill": "Bludgeoner"
+    },
+    "Charger Jewel": {
+        "Level": 2,
+        "Skill": "Focus"
+    },
+    "Enhancer Jewel": {
+        "Level": 2,
+        "Skill": "Power Prolonger"
+    },
+    "Sprinter Jewel": {
+        "Level": 2,
+        "Skill": "Marathon Runner"
+    },
+    "Physique Jewel": {
+        "Level": 2,
+        "Skill": "Constitution"
+    },
+    "Refresh Jewel": {
+        "Level": 2,
+        "Skill": "Stamina Surge"
+    },
+    "Ironwall Jewel": {
+        "Level": 2,
+        "Skill": "Guard"
+    },
+    "Shield Jewel": {
+        "Level": 2,
+        "Skill": "Guard Up"
+    },
+    "Guardian Jewel": {
+        "Level": 3,
+        "Skill": "Offensive Guard"
+    },
+    "Draw Jewel": {
+        "Level": 3,
+        "Skill": "Critical Draw"
+    },
+    "Gambit Jewel": {
+        "Level": 2,
+        "Skill": "Punishing Draw"
+    },
+    "Sheath Jewel": {
+        "Level": 2,
+        "Skill": "Quick Sheath"
+    },
+    "KO Jewel": {
+        "Level": 2,
+        "Skill": "Slugger"
+    },
+    "Drain Jewel": {
+        "Level": 1,
+        "Skill": "Stamina Thief"
+    },
+    "Slider Jewel": {
+        "Level": 1,
+        "Skill": "Affinity Sliding"
+    },
+    "Sonorous Jewel": {
+        "Level": 1,
+        "Skill": "Horn Maestro"
+    },
+    "Artillery Jewel": {
+        "Level": 2,
+        "Skill": "Artillery"
+    },
+    "Magazine Jewel": {
+        "Level": 2,
+        "Skill": "Load Shells"
+    },
+    "Trueshot Jewel": {
+        "Level": 2,
+        "Skill": "Special Ammo Boost"
+    },
+    "Capacity Jewel": {
+        "Level": 3,
+        "Skill": "Ammo Up"
+    },
+    "Quickload Jewel": {
+        "Level": 1,
+        "Skill": "Reload Speed"
+    },
+    "Absorber Jewel": {
+        "Level": 1,
+        "Skill": "Recoil Down"
+    },
+    "Sniper Jewel": {
+        "Level": 1,
+        "Skill": "Steadiness"
+    },
+    "Defense Jewel": {
+        "Level": 1,
+        "Skill": "Defense Boost"
+    },
+    "Protection Jewel": {
+        "Level": 2,
+        "Skill": "Divine Blessing"
+    },
+    "Medicine Jewel": {
+        "Level": 2,
+        "Skill": "Recovery Up"
+    },
+    "Recovery Jewel": {
+        "Level": 1,
+        "Skill": "Recovery Speed"
+    },
+    "Gobbler Jewel": {
+        "Level": 2,
+        "Skill": "Speed Eating"
+    },
+    "Earplug Jewel": {
+        "Level": 3,
+        "Skill": "Earplugs"
+    },
+    "Wind Res Jewel": {
+        "Level": 1,
+        "Skill": "Windproof"
+    },
+    "Footing Jewel": {
+        "Level": 2,
+        "Skill": "Tremor Resistance"
+    },
+    "Bubble Jewel": {
+        "Level": 2,
+        "Skill": "Bubbly Dance"
+    },
+    "Evasion Jewel": {
+        "Level": 2,
+        "Skill": "Evade Window"
+    },
+    "Jumping Jewel": {
+        "Level": 2,
+        "Skill": "Evade Extender"
+    },
+    "Fire Res Jewel": {
+        "Level": 1,
+        "Skill": "Fire Resistance"
+    },
+    "Water Res Jewel": {
+        "Level": 1,
+        "Skill": "Water Resistance"
+    },
+    "Ice Res Jewel": {
+        "Level": 1,
+        "Skill": "Ice Resistance"
+    },
+    "Thunder Res Jewel": {
+        "Level": 1,
+        "Skill": "Thunder Resistance"
+    },
+    "Dragon Res Jewel": {
+        "Level": 1,
+        "Skill": "Dragon Resistance"
+    },
+    "Resistor Jewel": {
+        "Level": 2,
+        "Skill": "Blight Resistance"
+    },
+    "Antidote Jewel": {
+        "Level": 1,
+        "Skill": "Poison Resistance"
+    },
+    "Antipara Jewel": {
+        "Level": 1,
+        "Skill": "Paralysis Resistance"
+    },
+    "Pep Jewel": {
+        "Level": 1,
+        "Skill": "Sleep Resistance"
+    },
+    "Steadfast Jewel": {
+        "Level": 1,
+        "Skill": "Stun Resistance"
+    },
+    "Muck Jewel": {
+        "Level": 1,
+        "Skill": "Muck Resistance"
+    },
+    "Antiblast Jewel": {
+        "Level": 1,
+        "Skill": "Blast Resistance"
+    },
+    "Botany Jewel": {
+        "Level": 1,
+        "Skill": "Botanist"
+    },
+    "Geology Jewel": {
+        "Level": 1,
+        "Skill": "Geologist"
+    },
+    "Destroyer Jewel": {
+        "Level": 2,
+        "Skill": "Partbreaker"
+    },
+    "Grinder Jewel": {
+        "Level": 1,
+        "Skill": "Speed Sharpening"
+    },
+    "Bomber Jewel": {
+        "Level": 1,
+        "Skill": "Bombardier"
+    },
+    "Fungiform Jewel": {
+        "Level": 3,
+        "Skill": "Mushroomancer"
+    },
+    "Enduring Jewel": {
+        "Level": 2,
+        "Skill": "Item Prolonger"
+    },
+    "Friendship Jewel": {
+        "Level": 2,
+        "Skill": "Wide-Range"
+    },
+    "Satiated Jewel": {
+        "Level": 1,
+        "Skill": "Free Meal"
+    },
+    "Potential Jewel": {
+        "Level": 2,
+        "Skill": "Heroics"
+    },
+    "Fortitude Jewel": {
+        "Level": 2,
+        "Skill": "Fortify"
+    },
+    "Brace Jewel": {
+        "Level": 1,
+        "Skill": "Flinch Free"
+    },
+    "Carver Jewel": {
+        "Level": 1,
+        "Skill": "Carving Pro"
+    },
+    "Hungerless Jewel": {
+        "Level": 1,
+        "Skill": "Hunger Resistance"
+    },
+    "Dive Jewel": {
+        "Level": 1,
+        "Skill": "Leap of Faith"
+    },
+    "Diversion Jewel": {
+        "Level": 1,
+        "Skill": "Diversion"
+    },
+    "Rodeo Jewel": {
+        "Level": 2,
+        "Skill": "Master Mounter"
+    },
+    "Wirebug Jewel": {
+        "Level": 2,
+        "Skill": "Wirebug Whisperer"
+    },
+    "Wall Run Jewel": {
+        "Level": 2,
+        "Skill": "Wall Runner"
+    },
+    "Counter Jewel": {
+        "Level": 2,
+        "Skill": "Counterstrike"
+    },
+    "Quickswitch Jewel": {
+        "Level": 2,
+        "Skill": "Rapid Morph"
+    }
+}
