@@ -164,7 +164,14 @@ async function injectDecoInputToDecoSelector(
       "id",
       `${selectorId.replace("PieceSelector", "")}DecoSelector_${Slot_Name}`
     );
-
+    select.addEventListener("change", (e) => {
+      onNewDecoSelected(
+        selectorId
+          .replace(selectorId.charAt(0), selectorId.charAt(0).toUpperCase())
+          .replace("PieceSelector", ""),
+        isCharm
+      );
+    });
     // Injecting Options
     injectOptionToSelector(select, "None", "None");
     Object.entries(DecoJson).forEach((deco) => {
@@ -202,6 +209,7 @@ async function injectDecoInputToDecoSelector(
     $(
       `#${selectorId.replace("PieceSelector", "")}DecoSelector_${Slot_Name}`
     ).select2();
+
   });
 
   // img.setAttribute()
@@ -271,12 +279,12 @@ async function onNewPieceSelected(selectorId, pieceName, isCharm) {
   ResultSkills[pieceName] = {};
   ResultSkills[pieceName + "Deco"] = {};
   if (selectedItem == "") {
-    await displaySetResult();
-    return;
-  }
+    await displaySetResult()
+    return
+  };
   if (pieceDetail["Skills"].length <= 0) {
-    return;
-  }
+    return
+  };
   Object.entries(pieceDetail["Skills"]).forEach((skill) => {
     const Skill_Name = skill[0];
     const Skill_Level = parseInt(skill[1]);
@@ -446,7 +454,7 @@ async function createCharm(name, skills, slots) {
   charms[name]["Decoration_Slots"] = slotsJson;
   charms[name]["Skills"] = skills;
 
-  //let charmPieceSelector = document.getElementById("charmPieceSelector");
+  let charmPieceSelector = document.getElementById("charmPieceSelector");
 
   injectCharmToCharmTable(
     name,
@@ -456,7 +464,7 @@ async function createCharm(name, skills, slots) {
 
   setCharmJson(charms);
   await showPieceSelectionItems("charmPieceSelector", "Charm", true);
-  alert(`${name} charm is created as successfully!`);
+  alert(`${name} charm is created as successfully!`)
 }
 
 async function onNewWeaponSelected() {
@@ -473,6 +481,8 @@ async function onNewWeaponSelected() {
   );
 }
 
+async function initWeaponSlotSelector() {}
+
 async function main() {
   await showPieceSelectionItems("headPieceSelector", "Head");
   await showPieceSelectionItems("torsoPieceSelector", "Torso");
@@ -483,7 +493,6 @@ async function main() {
   await initCharmMaker();
   await displayCharmsToTable();
   await onNewWeaponSelected();
-  $("[id$='Selector']").select2();
 }
 
 $(document).ready(function () {
@@ -501,19 +510,19 @@ $(document).ready(function () {
   });
   $("#charmTable tbody").on("click", "button", async function () {
     let data = charmTable.row($(this).parents("tr")[0]).data();
-    let isMobile = false;
-    if (data == undefined) {
+    let isMobile = false
+    if (data == undefined){
       // If in mobile view
       data = charmTable.row($(this).parents("tr")[1]).data();
-      isMobile = true;
+      isMobile = true
     }
     let decision = confirm("Are you sure you want to delete this charm?");
     if (decision) {
       removeCharm(data[0]);
       await showPieceSelectionItems("charmPieceSelector", "Charm", true);
-      if (isMobile) {
+      if(isMobile){
         charmTable.row($(this).parents("tr")[1]).remove().draw();
-      } else {
+      }else{
         charmTable.row($(this).parents("tr")[0]).remove().draw();
       }
     }
@@ -521,9 +530,9 @@ $(document).ready(function () {
   main();
 });
 
-$("[id$='PieceSelector']").each((ind, selector) => {
-  const id = selector.getAttribute("id");
-  $(`#${id}`).on("select2:select", () => {
+document.querySelectorAll("[id$='PieceSelector']").forEach((selector) => {
+  selector.addEventListener("change", () => {
+    const id = selector.getAttribute("id");
     const pieceName = id
       .replace(id.charAt(0), id.charAt(0).toUpperCase())
       .replace("PieceSelector", "");
@@ -535,9 +544,11 @@ $("[id$='PieceSelector']").each((ind, selector) => {
   });
 });
 
-$("#weaponSlotSelector").on("select2:select", () => {
-  onNewWeaponSelected();
-});
+document
+  .getElementById("weaponSlotSelector")
+  .addEventListener("change", (e) => {
+    onNewWeaponSelected();
+  });
 
 document
   .getElementById("createCharmBtn")
