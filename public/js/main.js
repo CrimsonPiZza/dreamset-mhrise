@@ -480,13 +480,13 @@ async function main() {
   await showPieceSelectionItems("waistPieceSelector", "Waist");
   await showPieceSelectionItems("legsPieceSelector", "Legs");
   await showPieceSelectionItems("charmPieceSelector", "Charm", true);
-  await initCharmMaker();
   await displayCharmsToTable();
   await onNewWeaponSelected();
   $("[id$='Selector']").select2();
+  await initCharmMaker();
 }
 
-$(document).ready(function () {
+$(document).ready(async function () {
   charmTable = $("#charmTable").DataTable({
     columnDefs: [
       {
@@ -518,7 +518,7 @@ $(document).ready(function () {
       }
     }
   });
-  main();
+  await main();
 });
 
 $("[id$='PieceSelector']").each((ind, selector) => {
