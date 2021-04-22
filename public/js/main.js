@@ -199,7 +199,9 @@ async function injectDecoInputToDecoSelector(
       );
     });
 
-    $(`#${selectorId.replace("PieceSelector", "")}DecoSelector_${Slot_Name}`).select2()
+    $(
+      `#${selectorId.replace("PieceSelector", "")}DecoSelector_${Slot_Name}`
+    ).select2();
   });
 
   // img.setAttribute()
@@ -417,7 +419,7 @@ async function initCharmMaker() {
     injectOptionToSelector(selectors[1], skill[0], skill[0]);
     injectOptionToSelector(selectors[2], skill[0], skill[0]);
   });
-  $("[id^='charmMakingSkillSelector']").select2()
+  $("[id^='charmMakingSkillSelector']").select2();
 }
 
 async function createCharm(name, skills, slots) {
